@@ -1,6 +1,6 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
+title: Dana Oira
+description: Computer Science & Public Health. INFP.
 url: https://danaoira.github.io
 logo: ava.jpg                                       # Site logo
 locale: en_US
@@ -52,7 +52,7 @@ linkedin:          danaoira
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
