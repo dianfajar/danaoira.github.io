@@ -293,9 +293,12 @@ canvas {
   font: 0/0 verdana;
   color: transparent;
   text-shadow: none;
-  border-radius: 50%;
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
+    img {
+      height: auto;
+      border-radius: 50%;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+    }
 }
 
 .main-info,
