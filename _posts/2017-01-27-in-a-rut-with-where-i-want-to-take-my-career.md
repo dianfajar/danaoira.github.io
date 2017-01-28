@@ -15,4 +15,9 @@ tags:
 
 {% capture fig_caption %} Infographic of Data Scientist skills {% endcapture %}
 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+</figure>
+
 I've been in a rut with where I want to take my career and I finally found my niche. (Plus, I wanted to do more applied math/statistics and visualization, which some aren't done as often in software engineering.) Now to work toward it!
