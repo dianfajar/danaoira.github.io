@@ -704,6 +704,8 @@ canvas {
 }
 
 .share-buttons {
+  display: none;
+  visibility: hidden;
   position: absolute;
   top: 32px;
   left: 40px;
