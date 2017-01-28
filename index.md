@@ -3,6 +3,6 @@ layout: home
 ---
 # Welcome
 
-This is the future site of Dana Oira.
+An aspiring data scientist passionate with possible PhD dreams of intersecting computer science with epidemiology.
 
-Please visit my [old site](http://danaoira.com) & be sure to come back again!
+This is the web portfolio and blog of Dana Oira's educational and career pursuits.
