@@ -21,7 +21,7 @@ For three years, I watched tons of students in their caps and gowns with the wid
 
 But in the back of my mind, I always had a lingering feeling of hope that some day that would be me.
 
-I still haven’t changed. :p
+I still haven’t changed.
 
 As much as I wanted to enjoy the ceremony, the whole time I was at USD, I just kept thinking, “This will be me in two years. Just two more years!”
 
@@ -41,4 +41,4 @@ I’m not really sure if I would be able to since my experience is so deeply roo
 
 I feel like I need a take a few more CS classes to really see if I have a passion for research and eternal learning. So far, studying about finite state machines, algorithm design and finishing up all my discrete math and linear algebra have been helping a lot with boosting my interest in learning.
 
-Even though I have my doubts, I won’t shut the door on that opportunity. At least not yet. 🙂
+Even though I have my doubts, I won’t shut the door on that opportunity. At least not yet.
