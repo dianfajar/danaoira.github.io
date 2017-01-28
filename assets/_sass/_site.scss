@@ -603,7 +603,7 @@ canvas {
     position: relative;
     left: auto;
     bottom: auto;
-    font-size: 80px;
+    font-size: 42px;
   }
   .tags > li {
     background: none;
@@ -717,7 +717,7 @@ canvas {
 // Media queries
 @media screen and (max-height: 605px) {
   .post-title-section .section-title {
-    font-size: 45px;
+    font-size: 42px;
   }
 }
 
@@ -787,7 +787,7 @@ canvas {
     }
   }
   .section-title {
-    font-size: 80px;
+    font-size: 42px;
   }
   .projects-menu li {
     width: 100% !important;
