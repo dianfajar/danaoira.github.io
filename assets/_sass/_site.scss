@@ -609,6 +609,7 @@ canvas {
     font-size: 15px;
   }
   .section-line {
+    display: none;
     color: $pink;
     position: relative;
     display: -webkit-box;
@@ -633,7 +634,7 @@ canvas {
     a {
       color: $pink;
       &:hover {
-        color: #4dbe7a;
+        color: $white;
       }
     }
     em {
