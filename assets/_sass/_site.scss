@@ -8,7 +8,7 @@
 }
 
 .block-right {
-  width: 50%;
+  width: 60%;
   float: right;
   overflow-y: auto;
 }
@@ -502,7 +502,7 @@ canvas {
       color: darken($white, 40);
     }
     .date {
-      color: #399f62;
+      color: $pink;
       float: right;
       display: inline-block;
       font-size: 15px;
