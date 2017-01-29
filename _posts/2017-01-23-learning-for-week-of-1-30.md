@@ -1,10 +1,10 @@
----
+	---
 layout: post
 title: "Learning for Week of 1/30"
 categories:
   - Learning
 tags:
-  - data science
+  - Data Science
 ---
 
 Data science learning this week in (roughly) chronological order.
