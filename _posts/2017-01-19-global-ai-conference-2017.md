@@ -4,10 +4,9 @@ title: "Global AI Conference 2017"
 categories:
   - Networking
 tags:
-  - conferences
-  - artificial intelligence
-  - machine learning
-  - deep learning
+  - Conferences
+  - AI
+  - Machine Learning
   - NLP
 ---
 
