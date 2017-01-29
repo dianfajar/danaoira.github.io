@@ -4,12 +4,9 @@ title: "Python Functional Programming"
 categories:
   - Learning
 tags:
-  - functional programming
-  - lambda
-  - map()
-  - python 3
-  - self-study
-  - coding
+  - Functional Programming
+  - Python 3
+  - Coding
 ---
 
 The following post replicates and adds notes to the tutorial from [source](http://www.bogotobogo.com/python/python_fncs_map_filter_reduce.php).
