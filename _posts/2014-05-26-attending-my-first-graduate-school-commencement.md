@@ -5,8 +5,7 @@ categories:
   - Academics
   - Personal
 tags:
-  - grad school
-  - graduation
+  - Grad School
 ---
 
 I took a trip to University of San Diego’s Graduate Commencement for a friend of mine who finished her Master’s degree.
