@@ -8,7 +8,7 @@ tags:
   - artificial intelligence
   - machine learning
   - deep learning
-  - natural language processing
+  - NLP
 ---
 
 Topics I plan to attend. View the full list of topics here:
