@@ -5,8 +5,8 @@ categories:
   - Career
   - Rambling
 tags:
-  - career
-  - data science
+  - Career
+  - Data Science
 ---
 
 <figure>
