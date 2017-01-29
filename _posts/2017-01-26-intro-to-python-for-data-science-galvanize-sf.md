@@ -4,11 +4,10 @@ title: "Intro to Python for Data Science @ Galvanize SF"
 categories:
   - Networking
 tags:
-  - python 3
-  - data science
-  - galvanize
-  - jupyter notebooks
-  - pandas
+  - Python 3
+  - Data Science
+  - Galvanize
+  - Pandas
 ---
 
 I wanted to attend this meetup to get a demonstration of Python in action to get inspiration for building a data science toolkit. The presentation did not disappoint.
