@@ -5,10 +5,9 @@ categories:
   - Career
   - Life
 tags:
-  - grad school
-  - interviews
-  - job hunting
-  - master's project
+  - Grad School
+  - Job Hunting
+  - Master's Project
 ---
 
 "It is what it is."
