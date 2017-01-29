@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: "Learning for Week of 1/30"
 categories:
