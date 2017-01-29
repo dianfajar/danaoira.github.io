@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I've been in a rut with where I want to take my career"
+title: "Finding a niche in Data Science"
 categories:
   - Career
   - Rambling
