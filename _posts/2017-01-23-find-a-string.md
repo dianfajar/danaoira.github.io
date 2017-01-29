@@ -4,10 +4,9 @@ title: "Find a String"
 categories:
   - Learning
 tags:
-  - python 3
-  - hacker rank
-  - coding
-  - self-study
+  - Python 3
+  - Hacker Rank
+  - Coding
 ---
 
 ```python
