@@ -4,9 +4,9 @@ title: "Finding the Percentage"
 categories:
   - Learning
 tags:
-  - python 3
-  - hacker rank
-  - coding
+  - Python 3
+  - Hacker Rank
+  - Coding
 ---
 
 ```python
