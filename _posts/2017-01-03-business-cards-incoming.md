@@ -9,6 +9,7 @@ tags:
 
 <figure>
 	<a href="https://danaoira.github.io/images/business-card-proof.jpeg"><img src="https://danaoira.github.io/images/business-card-proof.jpeg"></a>
+	<figcaption>Sample proof of the back side of the business card</figcaption>
 </figure>
 
 I decided that with the number of tech events and conferences I've been attending every week, it was time to ditch pulling up my LinkedIn profile on my phone to connect with people and go old fashioned - business cards!
