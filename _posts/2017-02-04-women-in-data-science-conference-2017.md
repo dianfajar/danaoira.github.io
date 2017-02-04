@@ -24,7 +24,7 @@ Luckily, [Women in Big Data](http://womeninbigdata.org) was hosting the livestre
 Overall the conference was amazing. I was able to make friends with a PhD Material Sciences graduate from UCSD and two MS Statistics students from SJSU. Being able to make new connections and friends through these networking events is well worth it.
 
 <figure>
-	[<img src="https://danaoira.github.io/images/business-card-proof.jpg">](https://danaoira.github.io/images/business-card-proof.jpg)
+	<a href="https://danaoira.github.io/images/women-in-data-science-conference-2017.jpg"><img src="https://danaoira.github.io/images/women-in-data-science-conference-2017.jpg"></a>
 	<figcaption>Women in Big Data hosted the live stream at Intel HQ</figcaption>
 </figure>
 
