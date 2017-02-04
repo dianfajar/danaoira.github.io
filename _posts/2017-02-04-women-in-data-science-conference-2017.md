@@ -9,7 +9,7 @@ tags:
 ---
 
 <figure>
-	[<img src="https://danaoira.github.io/images/wids2017.jpg">](https://danaoira.github.io/images/wids2017.jpg)
+	<a href="https://danaoira.github.io/images/wids2017.jpg"><img src="https://danaoira.github.io/images/wids2017.jpg"></a>
 	<figcaption>Women in Data Science 2017 @ Stanford University</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ My favorite talks were from:
 
 I was also most surprised to see my former employer, [Western Digital](http://wdc.com), make an appearance with [Janet George, Fellow and CDO, Western Digital](https://render.githubusercontent.com/view/ipynb?commit=d2aadb16dbe727cb4d868aa138d79e979036824c&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f64616e616f6972612f4d697363656c6c616e656f75732f643261616462313664626537323763623464383638616131333864373965393739303336383234632f4e6f7465732f323031372d30322d3033253230576f6d656e253230696e25323044617461253230536369656e6365253230436f6e666572656e63652f323031372d30322d30332d776f6d656e2d696e2d646174612d736369656e63652d636f6e666572656e63652e6970796e62&nwo=danaoira%2FMiscellaneous&path=Notes%2F2017-02-03+Women+in+Data+Science+Conference%2F2017-02-03-women-in-data-science-conference.ipynb&repository_id=65120766#11:10-11:30am:-Janet-George,-Fellow-and-CDO,-Western-Digital).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Janet George, fellow and Chief Data Officer, <a href="https://twitter.com/WesternDigital">@WesternDigital</a> delivers an extraordinary keynote on the future of memory technology <a href="https://twitter.com/hashtag/WiDS2017?src=hash">#WiDS2017</a> <a href="https://t.co/kASkiIkQdo">pic.twitter.com/kASkiIkQdo</a></p>&mdash; Ann  Rosenberg (@rosenbergann) <a href="https://twitter.com/rosenbergann/status/827660060071309313">February 3, 2017</a></blockquote>
+<blockquote class="twitter-tweet center" data-lang="en"><p lang="en" dir="ltr">Janet George, fellow and Chief Data Officer, <a href="https://twitter.com/WesternDigital">@WesternDigital</a> delivers an extraordinary keynote on the future of memory technology <a href="https://twitter.com/hashtag/WiDS2017?src=hash">#WiDS2017</a> <a href="https://t.co/kASkiIkQdo">pic.twitter.com/kASkiIkQdo</a></p>&mdash; Ann  Rosenberg (@rosenbergann) <a href="https://twitter.com/rosenbergann/status/827660060071309313">February 3, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Her talk was very technical, discussing the evolution of NAND from 2D to 3D to deal with the demands for higher storage capacity in our data-driven era. Luckily, the domain knowledge I gained from interning at Western Digital help me keep up with the the extremely dense presentation.
