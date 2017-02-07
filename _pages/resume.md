@@ -5,13 +5,8 @@ description: "A resume page."
 permalink: /resume.html
 ---
 
-Graduate Engineer Intern
-Western Digital Corporation
-2014 – 2015
-
-Web Developer
-Codazen, Inc.
-2012 – 2013
+2014 – 2015|Graduate Engineer Intern|Western Digital Corporation
+2012 - 2013|Web Developer|Codazen, Inc.
 
 Web Developer
 Altek Media Group
