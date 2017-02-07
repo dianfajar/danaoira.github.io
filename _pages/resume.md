@@ -5,20 +5,11 @@ description: "A resume page."
 permalink: /resume.html
 ---
 
-2014 – 2015|Graduate Engineer Intern|Western Digital Corporation
-2012 - 2013|Web Developer|Codazen, Inc.
-
-Web Developer
-Altek Media Group
-2011 – 2012
-
-Web Development & Solar Energy Research Intern
-EcoMotion, Inc.
-2011
-
-Web Development Intern
-KussnerIT
-2010
+|2014 – 2015|Graduate Engineer Intern|Western Digital Corporation|
+|2012 - 2013|Web Developer|Codazen, Inc.|
+|2011 - 2012|Web Developer|Altek Media Group|
+|2011|Web Development & Solar Energy Research Intern|EcoMotion, Inc.|
+|2010|Web Development Intern|KussnerIT|
 
 Academia
 M.S. Computer Science
