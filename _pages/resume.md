@@ -7,16 +7,10 @@ permalink: /resume.html
 
 ## Experience
 
-||Graduate Engineer Intern |Western Digital Corporation |
-|2012 - 2013|Web Developer |Codazen, Inc. |
-|2011 - 2012|Web Developer |Altek Media Group |
-|2011|Web Development & Research Intern |EcoMotion, Inc. |
-|2010|Web Development Intern |KussnerIT |
-
-<table style="border:none;">
+<table style="border:none; text-align: left;">
   <tr>
     <td>2014 - 2015</td>
-    <td>**Western Digital Corporation**, Graduate Engineer Inter</td>
+    <td><strong>Western Digital Corporation</strong>, Graduate Engineer Inter</td>
   </tr>
   <tr>
     <td>2012 - 2013</td>
