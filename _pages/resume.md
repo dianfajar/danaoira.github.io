@@ -7,41 +7,16 @@ permalink: /resume.html
 
 ## Experience
 
-<table style="border:none; text-align: left;">
-  <tr>
-    <td>2014 - 2015</td>
-    <td><strong>Western Digital Corporation</strong>, Graduate Engineer Inter</td>
-  </tr>
-  <tr>
-    <td>2012 - 2013</td>
-    <td>**Codazen, Inc.**, Web Developer</td>
-  </tr>
-  <tr>
-    <td>2011 - 2012</td>
-    <td>**Altek Media Group**, Web Developer</td>
-  </tr>
-  <tr>
-    <td>2011</td>
-    <td>**EcoMotion, Inc.**, Web Developer & Research Intern</td>
-  </tr>
-  <tr>
-    <td>2010</td>
-    <td>**KussnerIT**, Web Development Intern</td>
-  </tr>
-</table>
+- 2014 - 2015 **Western Digital Corporation**, Graduate Engineer Intern
+- 2012 - 2013 **Codazen, Inc.**, Web Developer
+- 2011 - 2012 **Altek Media Group**, Web Developer
+- 2011 - 2011 **EcoMotion, Inc.**, Web Developer & Research Intern
+- 2010 - 2010 **KussnerIT**, Web Development Intern
 
 ## Education
 
-<table style="border:none;">
-  <tr>
-    <td>2013 - 2016</td>
-    <td>**M.S. Computer Science**, California State University, Fullerton</td>
-  </tr>
-  <tr>
-    <td>2007 - 2011</td>
-    <td>**B.A. Public Health Policy**, University of California, Irvine</td>
-  </tr>
-</table>
+- 2013 - 2016 **M.S. Computer Science**, California State University, Fullerton
+- 2007 - 2011 **B.A. Public Health Policy**, University of California, Irvine
 
 ## Leadership
 
@@ -59,8 +34,10 @@ Presentations
 TEDxYouth @ Chino Hills High School
 2015
 
-Coursework
-- Computer Science
+### Coursework
+
+#### Computer Science
+
 - Masters Project for Computer Science
 - Graduate Seminar for Computer Science
 - Expert Systems Design Theory
@@ -79,7 +56,9 @@ Coursework
 - Discrete Mathematics
 - Statistics
 - Human Factors for the Web (HCI)
-- Public Health
+
+#### Public Health
+
 - Public Health Practicum
 - Epidemiology
 - Environmental Psychology
