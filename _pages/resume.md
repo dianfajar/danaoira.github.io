@@ -5,16 +5,19 @@ description: "A resume page."
 permalink: /resume.html
 ---
 
+## Experience
+
 |2014 – 2015|Graduate Engineer Intern|Western Digital Corporation|
 |2012 - 2013|Web Developer|Codazen, Inc.|
 |2011 - 2012|Web Developer|Altek Media Group|
-|2011|Web Development & Solar Energy Research Intern|EcoMotion, Inc.|
+|2011|Web Development & Research Intern|EcoMotion, Inc.|
 |2010|Web Development Intern|KussnerIT|
 
-Academia
-M.S. Computer Science
-California State University, Fullerton
-2013 – 2016
+## Academia
+
+**M.S. Computer Science**
+- California State University, Fullerton
+- 2013 – 2016
 
 Computer Science Transfer Courses
 Riverside Community College
@@ -24,7 +27,7 @@ B.A. Public Health Policy
 University of California, Irvine
 2007 – 2011
 
-Leadership
+# Leadership
 SF Bay Area Association of Computing Machinery (ACM)
 2016 – Present
 
