@@ -7,28 +7,50 @@ permalink: /resume.html
 
 ## Experience
 
-|2014 – 2015|Graduate Engineer Intern |Western Digital Corporation |
+||Graduate Engineer Intern |Western Digital Corporation |
 |2012 - 2013|Web Developer |Codazen, Inc. |
 |2011 - 2012|Web Developer |Altek Media Group |
 |2011|Web Development & Research Intern |EcoMotion, Inc. |
 |2010|Web Development Intern |KussnerIT |
 
+<table style="border:none;">
+  <tr>
+    <td>2014 - 2015</td>
+    <td>**Western Digital Corporation**, Graduate Engineer Inter</td>
+  </tr>
+  <tr>
+    <td>2012 - 2013</td>
+    <td>**Codazen, Inc.**, Web Developer</td>
+  </tr>
+  <tr>
+    <td>2011 - 2012</td>
+    <td>**Altek Media Group**, Web Developer</td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>**EcoMotion, Inc.**, Web Developer & Research Intern</td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>**KussnerIT**, Web Development Intern</td>
+  </tr>
+</table>
+
 ## Education
 
-**M.S. Computer Science**
-
-- California State University, Fullerton
-- 2013 – 2016
-
-Computer Science Transfer Courses
-Riverside Community College
-2012 – 2013
-
-B.A. Public Health Policy
-University of California, Irvine
-2007 – 2011
+<table style="border:none;">
+  <tr>
+    <td>2013 - 2016</td>
+    <td>**M.S. Computer Science**, California State University, Fullerton</td>
+  </tr>
+  <tr>
+    <td>2007 - 2011</td>
+    <td>**B.A. Public Health Policy**, University of California, Irvine</td>
+  </tr>
+</table>
 
 ## Leadership
+
 SF Bay Area Association of Computing Machinery (ACM)
 2016 – Present
 
@@ -44,39 +66,37 @@ TEDxYouth @ Chino Hills High School
 2015
 
 Coursework
-Computer Science
-Masters Project for Computer Science
-Graduate Seminar for Computer Science
-Expert Systems Design Theory
-Advanced Computer Networking
-Advanced Software Process
-Software Project Management
-Software Architecture
-Software Design
-Computer System Architecture II
-Theory of Computation
-Software Engineering
-Operating Systems Concepts
-Algorithm Engineering
-Programming Languages and Translations
-Linear Algebra
-Discrete Mathematics
-Statistics
-Human Factors for the Web (HCI)
-Public Health
-Public Health Practicum
-Epidemiology
-Environmental Psychology
-Health Policy
-Foundations of Community Health
-Public Health Policy Analysis
-Health Behavior Theory
-Medical Anthropology
-Public Health Communication
-Management of Contemporary Organizations
-Drug Abuse & Prevention
-Gender, Biology and Environmental Ethics
-Human Ecology of Health
-Principles of Public Health
- 
-LinkedIn
+- Computer Science
+- Masters Project for Computer Science
+- Graduate Seminar for Computer Science
+- Expert Systems Design Theory
+- Advanced Computer Networking
+- Advanced Software Process
+- Software Project Management
+- Software Architecture
+- Software Design
+- Computer System Architecture II
+- Theory of Computation
+- Software Engineering
+- Operating Systems Concepts
+- Algorithm Engineering
+- Programming Languages and Translations
+- Linear Algebra
+- Discrete Mathematics
+- Statistics
+- Human Factors for the Web (HCI)
+- Public Health
+- Public Health Practicum
+- Epidemiology
+- Environmental Psychology
+- Health Policy
+- Foundations of Community Health
+- Public Health Policy Analysis
+- Health Behavior Theory
+- Medical Anthropology
+- Public Health Communication
+- Management of Contemporary Organizations
+- Drug Abuse & Prevention
+- Gender, Biology and Environmental Ethics
+- Human Ecology of Health
+- Principles of Public Health
