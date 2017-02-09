@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Curriculum Graph Visualizer 2.0 Planning"
+title: "Curriculum Graph Visualizer 2.0 Brainstorming"
 categories:
   - Projects
 tags:
   - Curriculum Graph Visualizer
   - CGV 2.0
   - Projects
-  - 
 ---
 
 As I was heading home from a [meetup at Galvanize](https://danaoira.github.io/data-science-or-data-engineering/), I was brainstorming ideas on how to make a 2.0 version of my Masters Project, [Curriculum Graph Visualizer](https://github.com/danaoira/CurriculumGraphVisualizer), which will:
