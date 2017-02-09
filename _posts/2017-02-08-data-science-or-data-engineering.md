@@ -11,13 +11,13 @@ tags:
 
 I was at the **Working with an IDE: Python/Jupyter Notebooks, RStudio, Spark and R Shiny App** event hosted by [Galvanize](http://galvanize.com).
 
-> Our presenter, Thomas, will provide a visual journey through the power of using Notebooks, Object Stores, a Shiny Application that leverages R-Studio/R-Lang and Spark. The details of how all work in collaboration with each other to provide insights into power usage throughout the 5 boroughs of New York, as an example. (Data provided by BlocPower.)
+> Our presenter will provide a visual journey through the power of using Notebooks, Object Stores, a Shiny Application that leverages R-Studio/R-Lang and Spark. The details of how all work in collaboration with each other to provide insights into power usage throughout the 5 boroughs of New York, as an example. (Data provided by BlocPower.)
 
 I thought it would be a tutorial, but it was instead a demo of IBM's [Data Science Experience](http://datascience.ibm.com) platform presented by IBM.
 
-It was really cool to see how BlocPower and the Data Science Experience integrated a lot of data science tools together into one site. Very convenient, really. What's even better is that it loads it all in a cloud instance on your account, so you don't have to go through the trouble of installing every component onto your system. It's all in one spot and ready to go.
+It was really cool to see how BlocPower and the Data Science Experience integrated a lot of data science tools together into one site. Very convenient, really. What's even better is that it your account is a fully-loaded cloud instance with all the components, so you don't have to go through the trouble of installing each one onto your system. It's all in one spot and ready to go.
 
-I got to play around it briefly while the demo was being presented. I'm mostly excited by the tutorials and data science articles they have available.
+I got to play around with it briefly while the demo was being presented. I'm mostly excited by the tutorials and data science articles they have available and hope to write a review and update about it when the one-month demo expires.
 
 After the demo ended, I went to ask the presenter for his insight on data science and engineering.
 
@@ -40,4 +40,6 @@ I mentioned that when I finished my Masters degree in Computer Science, I was pr
 
 After hearing my list of interests, they both agreed that I would be a good fit for data science.
 
-Their final takeaway was to "follow my gut" and do what I love to do, and that I shall do!
+The data engineer recommended I check out [Big Data University](http://bigdatauniversity.com). It's like the Coursera of Big Data created by IBM. I actually started working through a few of the 101 courses [last month](https://danaoira.github.io/learning-for-week-of-1-23/) and liked it. I plan on finishing some of the tracks and eventually collect all those badges!
+
+Their final takeaway was to "follow my gut" and do what I love to do, which is what I will do!
