@@ -16,6 +16,7 @@ As I was heading home from a [meetup at Galvanize](https://danaoira.github.io/da
 - Optimize the translation/parsing from DOTS to Python GraphViz
 - Incorporate a database to store multiple majors instead of just one major's requirements
 - Make a web deployment (onto this GitHub site, hopefully)
+- Fine-tune the algorithm for course suggestions (lower priority)
 
 These are some of the things (and more) that I wanted to do for the project but didn't have enough time to do in the semester-long time frame, since the research and algorithm design took the longest.
 
