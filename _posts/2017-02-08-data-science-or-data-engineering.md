@@ -43,3 +43,5 @@ After hearing my list of interests, they both agreed that I would be a good fit 
 The data engineer recommended I check out [Big Data University](http://bigdatauniversity.com). It's like the Coursera of Big Data created by IBM. I actually started working through a few of the 101 courses [last month](https://danaoira.github.io/learning-for-week-of-1-23/) and liked it. I plan on finishing some of the tracks and eventually collect all those badges!
 
 Their final takeaway was to "follow my gut" and do what I love to do, which is what I will do!
+
+As I was heading home, I was brainstorming ideas on how to make a 2.0 version of my Masters Project, [Curriculum Graph Visualizer](https://github.com/danaoira/CurriculumGraphVisualizer), which will incorporate more advanced methods like PDF scraping, optimize the translation/parsing from DOTS to Python GraphViz and incorporate a database to store multiple majors instead of just one major's requirements. I can't wait to start planning out a schedule for it and writing up the requirements!
