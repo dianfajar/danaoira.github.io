@@ -1,28 +1,31 @@
 ---
 layout: post
-title: "Learning for Week of 1/30"
+title: "Learning for January 2017"
 categories:
   - Learning
 tags:
   - Data Science
+  - Learning
 ---
 
 Data science learning this week in (roughly) chronological order.
 
-# Workshops
+## Workshops
+
 - Intro to Python for Data Science, Galvanize
 
-# Books
+## Books
+
 - Ch. 7-8: Data Science from Scratch
-- <a href="https://www.goodreads.com/book/show/13638556-what-is-data-science">What is Data Science?</a>
-- Pgs. 40-100: <a href="https://www.goodreads.com/book/show/425243.SQL_Pocket_Guide">SQL Pocket Guide</a>
+- [What is Data Science?](https://www.goodreads.com/book/show/13638556-what-is-data-science)
+- Pgs. 40-100: [SQL Pocket Guide](https://www.goodreads.com/book/show/425243.SQL_Pocket_Guide)
 - Ch. 2-3: Introduction to Statistical Analysis, Lambers, J.
 - Data Driven
 - https://www.amazon.com/Data-Jujitsu-Turning-into-Product-ebook/dp/B008HMN5BE
 
-# Courses
+## Courses
 
-- Mon: <a href="https://bigdatauniversity.com/courses/what-is-big-data/">Big Data 101</a
+- Mon: <a href="https://bigdatauniversity.com/courses/what-is-big-data/">Big Data 101</a>
 - Tue: <a href="https://bigdatauniversity.com/courses/data-science-101/">Data Science 101</a>
 - Wed: <a href="https://bigdatauniversity.com/courses/introduction-to-hadoop/">Hadoop 101</a>
 - Thu: <a href="https://bigdatauniversity.com/courses/r-101/">R 101</a>
@@ -30,7 +33,8 @@ Data science learning this week in (roughly) chronological order.
 - Sat: <a href="https://bigdatauniversity.com/courses/what-is-spark/">Spark Fundamentals I</a>
 - Sun: <a href="https://bigdatauniversity.com/courses/introduction-watson-analytics/">Watson Analytics 101</a>
 
-# Online Literature
+## Online Literature
+
 - <a href="http://dataconomy.com/2016/08/getting-into-data-science-a-guide-for-students-and-parents/">Getting Into Data Science: A Guide for Students and Parents</a>
 - <a href="http://dataconomy.com/2016/04/top-3-algorithms-plain-english/">Top 3 Algorithms</a>
 - <a href="http://dataconomy.com/2016/03/beginners-guide-history-data-science/">Beginner's Guide to the History of Data Science</a>
@@ -40,6 +44,7 @@ Data science learning this week in (roughly) chronological order.
 - http://www.datasciencecentral.com/profiles/blogs/structured-vs-unstructured-data-the-rise-of-data-anarchy
 
 Backlog
+
 - https://www.ncbi.nlm.nih.gov/genome
 - http://www.datakind.org/
 - https://www.udemy.com/learning-python-for-data-analysis-and-visualization/learn/v4/overview

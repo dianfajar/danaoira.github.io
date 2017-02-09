@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning for Week of 1/30"
+title: "Learning for February 2017"
 categories:
   - Learning
 tags:
