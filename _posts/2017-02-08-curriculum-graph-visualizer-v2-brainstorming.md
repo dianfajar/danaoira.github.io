@@ -20,4 +20,8 @@ As I was heading home from a [meetup at Galvanize](https://danaoira.github.io/da
 
 These are some of the things (and more) that I wanted to do for the project but didn't have enough time to do in the semester-long time frame, since the research and algorithm design took the longest.
 
+I also want to incorporate more Data Science aspects to get some practice in. It might take a bit longer since I may deal with more development, but we shall see.
+
+I think I may want to apply the report aspect on this project like for my Masters project. Having the formal list of items to fill out for the report made it very easy to translate it into a schedule and pace myself. I'll aim to finish the schedule planning by Monday.
+
 I can't wait to start planning out a schedule for it and writing up the requirements!
