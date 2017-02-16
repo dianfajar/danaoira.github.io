@@ -22,9 +22,9 @@ After the tour, I met up with a friend I made at the [Women in Big Data](http://
 
 ## ACM General Meeting at MOVE, Inc.
 
-In the evening, I volunteered for Association of Computing Machinery (ACM) San Francisco Bay Area Professional Chapter. The General Meeting's topic was titled "Experience Emerging Research and More Around Immersive Analytics" by Todd Margolis, Product Manager at Qlik.
+In the evening, I volunteered for [Association of Computing Machinery (ACM) San Francisco Bay Area Professional Chapter](http://sfbayacm.org). The General Meeting's topic was titled "Experience Emerging Research and More Around Immersive Analytics" by Todd Margolis, Product Manager at Qlik.
 
-My notes of the event are available here.
+[My notes of the event are available here.](https://github.com/danaoira/Miscellaneous/blob/master/Notes/2017-02-15%20Experience%20emerging%20research%20and%20more%20around%20Immersive%20Analytics%2C%20ACM/2017-02-15-immersive-analytics-acm.ipynb)
 
 SF Bay Area ACM will also be uploading a video recording of the presentation [on their YouTube channel](https://www.youtube.com/user/sfbayacm) in the coming weeks.
 
