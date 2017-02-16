@@ -14,10 +14,14 @@ permalink: /cv.html
 - 2011: **EcoMotion, Inc.**, Research Assistant and Web Development Intern
 - 2010: **KussnerIT**, Web Development Intern
 
+---
+
 ## Education
 
 - 2016: **M.S. Computer Science**, California State University, Fullerton
 - 2011: **B.A. Public Health Policy**, University of California, Irvine
+
+---
 
 ## Affiliations
 
@@ -34,6 +38,8 @@ permalink: /cv.html
 	- 2010: Secretary
 	- 2009-2011: Social Chair
 	- 2008-2010: Webmaster
+
+---
 
 ## Coursework
 
