@@ -1,32 +1,32 @@
 ---
 layout: page
-title: Resume
+title: Curriculum Vitae
 description: "Curriculum Vitae"
 permalink: /cv.html
 ---
 
 ## Employment
 
-- 2014-2015: Graduate Engineer Intern, Western Digital Corporation
-- 2014: Graduate Assistant Master of Software Engineering Program, California State University Fullerton 
-- 2012-2013: Web Developer, Codazen, Inc.
-- 2011-2012: Web Developer, Altek Media Group
-- 2011: Research Assistant and Web Development Intern, EcoMotion, Inc.
-- 2010: Web Development Intern, KussnerIT
+- 2014-2015: **Western Digital Corporation**, Graduate Engineer Intern
+- 2014: **California State University Fullerton**, Graduate Assistant Master of Software Engineering Program
+- 2012-2013: **Codazen, Inc.**, Web Developer
+- 2011-2012: **Altek Media Group**, Web Developer
+- 2011: **EcoMotion, Inc.**, Research Assistant and Web Development Intern
+- 2010: **KussnerIT**, Web Development Intern
 
 ## Education
 
-- 2016: M.S. Computer Science, California State University, Fullerton
-- 2011: B.A. Public Health Policy, University of California, Irvine
+- 2016: **M.S. Computer Science**, California State University, Fullerton
+- 2011: **B.A. Public Health Policy**, University of California, Irvine
 
 ## Affiliations
 
-- 2015-Present: Association of Computing Machinery (ACM), San Francisco Bay Area
+- 2015-Present: **ssociation of Computing Machinery (ACM), San Francisco Bay Area**
 	- 2015-Present: Volunteer
-- 2015-Present: Association of Computing Machinery (ACM), International
-- 2015: Association of Computing Machinery (ACM), California State University, Fullerton
-- 2015-Present: Women in Big Data (WiBD)
-- 2008-2012: Delta Lambda Chi, Alpha Chapter, University of California, Irvine
+- 2015-Present: **Association of Computing Machinery (ACM), International**
+- 2015: **Association of Computing Machinery (ACM), California State University, Fullerton**
+- 2015-Present: **Women in Big Data (WiBD)**
+- 2008-2012: **Delta Lambda Chi, Alpha Chapter, University of California, Irvine**
 	- 2012: President
 	- 2011: Vice President
 	- 2010: Secretary
@@ -35,7 +35,7 @@ permalink: /cv.html
 
 ## Coursework
 
-- M.S. Computer Science, California State University, Fullerton
+- **M.S. Computer Science**, California State University, Fullerton
 	- Masters Project for Computer Science
 	- Graduate Seminar for Computer Science
 	- Expert Systems Design Theory
@@ -54,7 +54,7 @@ permalink: /cv.html
 	- Discrete Mathematics
 	- Statistics for Natural Sciences
 	- Human Factors for the Web (HCI)
-- B.A. Public Health Policy, University of California, Irvine
+- **B.A. Public Health Policy**, University of California, Irvine
 	- Public Health Practicum
 	- Epidemiology
 	- Environmental Psychology
