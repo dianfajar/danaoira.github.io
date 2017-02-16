@@ -25,6 +25,8 @@ permalink: /cv.html
 	- 2015-Present: Volunteer
 - 2015-Present: **Association of Computing Machinery (ACM), International**
 - 2015: **Association of Computing Machinery (ACM), California State University, Fullerton**
+	- 2016: SoCal ACM-W Celebrating Women in Computing Conference Attendee
+	- 2014: SoCal ACM-W Celebrating Women in Computing Conference Attendee
 - 2015-Present: **Women in Big Data (WiBD)**
 - 2008-2012: **Delta Lambda Chi, Alpha Chapter, University of California, Irvine**
 	- 2012: President
