@@ -7,7 +7,7 @@ permalink: /cv.html
 
 ## Employment
 
-|---|----|
+|-------|:----|
 |2014-2015|**Western Digital Corporation**, Graduate Engineer Intern|
 |2014|**California State University Fullerton**, Graduate Assistant Master of Software Engineering Program|
 |2012-2013|**Codazen, Inc.**, Web Developer|
