@@ -34,3 +34,4 @@ Backlog
 - [OnePageR](http://togaware.com/onepager/?utm_content=bufferfbdf9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [50+ Free Data Science Books](http://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books)
 - [TensorFlow and deep learning without a PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0&utm_content=buffer5fa20&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Data Visualization with D3js](https://www.thisismetis.com/data-visualization-with-d3js)
