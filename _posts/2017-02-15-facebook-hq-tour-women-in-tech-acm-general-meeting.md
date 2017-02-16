@@ -14,7 +14,7 @@ Today was a very inspirational day.
 
 ## Facebook Tour
 
-I visited Facebook HQ with a friend who worked there and was able to get a tour of the campus. I have much respect for the company with their presentations in Machine Learning and Big Data from the AI Frontiers Conference a few weeks back. The campus didn't disappoint, and I could definitely understand how a company that integrates art and inspiration into their workplace is able to deliver the products they have available.
+I visited Facebook HQ with a friend who worked there and was able to get a tour of the campus. I have much respect for the company with [their presentations in Machine Learning and Big Data from the AI Frontiers Conference a few weeks back](https://danaoira.github.io/ai-frontiers-2017/). The campus didn't disappoint, and I definitely understand how a company that integrates art and inspiration into their workplace is able to deliver the products they have available.
 
 ## Discussing Women in Tech Over Milk Tea
 
@@ -32,4 +32,4 @@ The demo of AR using VR with the HoloLens on patient triage was very intriguing.
 
 The best part of the night was being able to network with the guests at the event. Realtor.com/MOVE, Inc. provided ACM with the venue and were incredible to work with. I hope we can work with them again in the future because their venue, location, professionalism and camaraderie made the event very memorable. I had the opportunity to chat with their recruiters and head of their Data Science team and was very inspired with the work they were doing.
 
-Lastly, I had good talks with my colleagues in the ACM Council. They mentioned that I may be a good fit for their Chair position of ACM Women (ACM-W), the subsidiary of ACM that outreaches to women in tech. That was exciting news to hear as I would be more than happy to give back to the community, especially by empowering women in tech.
+Lastly, I had good talks with my colleagues in the ACM Council. They mentioned that I may be a good fit for their Chair position of ACM Women (ACM-W), the subsidiary of ACM that outreaches to women in tech. That was exciting news to hear as I would be more than happy to give back to the community, especially through empowering women in tech.
