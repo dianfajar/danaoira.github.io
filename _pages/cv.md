@@ -21,7 +21,7 @@ permalink: /cv.html
 
 ## Affiliations
 
-- 2015-Present: **ssociation of Computing Machinery (ACM), San Francisco Bay Area**
+- 2015-Present: **Association of Computing Machinery (ACM), San Francisco Bay Area**
 	- 2015-Present: Volunteer
 - 2015-Present: **Association of Computing Machinery (ACM), International**
 - 2015: **Association of Computing Machinery (ACM), California State University, Fullerton**
