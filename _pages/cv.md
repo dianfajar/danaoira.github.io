@@ -7,12 +7,13 @@ permalink: /cv.html
 
 ## Employment
 
-- 2014-2015: **Western Digital Corporation**, Graduate Engineer Intern
-- 2014: **California State University Fullerton**, Graduate Assistant Master of Software Engineering Program
-- 2012-2013: **Codazen, Inc.**, Web Developer
-- 2011-2012: **Altek Media Group**, Web Developer
-- 2011: **EcoMotion, Inc.**, Research Assistant and Web Development Intern
-- 2010: **KussnerIT**, Web Development Intern
+|---|----|
+|2014-2015|**Western Digital Corporation**, Graduate Engineer Intern|
+|2014|**California State University Fullerton**, Graduate Assistant Master of Software Engineering Program|
+|2012-2013|**Codazen, Inc.**, Web Developer|
+|2011-2012|**Altek Media Group**, Web Developer|
+|2011|**EcoMotion, Inc.**, Research Assistant and Web Development Intern|
+|2010|**KussnerIT**, Web Development Intern|
 
 ---
 
