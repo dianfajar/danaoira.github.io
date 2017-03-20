@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>D3 Page Template</title>
+		<script type="text/javascript" src="/d3/d3.js"></script>
+		<link rel="stylesheet" type="text/css" href="/css/base.css">
+	</head>
+	<body>
+		<script type="text/javascript">
+			var dataset = [5, 10, 15, 20, 25];
+			var eclipsedata;
+
+			// d3.csv("/data/solar.csv", function(data) {
+			// 	if (error) {
+			// 		console.log(error);
+			// 	} else {
+			// 		console.log(data)
+			// 	}
+
+			// 	eclipsedata = data;
+			// 	console.log(eclipsedata);
+
+			d3.select("body").selectAll("p")
+				.data(dataset)
+				.enter()
+				.append("p")
+				.text(function(d) {
+					return d;
+				})
+				.style("color", function(d) {
+					if (d < 15) {
+						return "pink";
+					} else {
+						return "gray";
+					}
+				});
+		</script>
+	</body>
+</html>
