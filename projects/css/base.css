@@ -3,4 +3,5 @@ div.bar {
 	width: 20px;
 	height: 75px;
 	background-color: pink;
+	margin: 0 1px 0 1px;
 }
