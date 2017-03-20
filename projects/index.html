@@ -8,18 +8,19 @@
 	</head>
 	<body>
 		<script type="text/javascript">
-			var dataset = [25, 7, 5, 26, 11, 8, 25, 14, 23, 19, 14, 11, 22, 29, 11, 13, 12, 17, 18, 10, 24, 18, 25, 9, 3];
-			var eclipsedata;
+			var dataset = [];
 
-			// d3.csv("/data/solar.csv", function(data) {
-			// 	if (error) {
-			// 		console.log(error);
-			// 	} else {
-			// 		console.log(data)
-			// 	}
+			for (var i = 0; i < 25; i++) {
+				var newNumber = Math.random() * 30;
+				dataset.push(newNumber);
+			}
 
+			// var eclipsedata;
+
+			// d3.csv("data/solar.csv", function(data) {
 			// 	eclipsedata = data;
 			// 	console.log(eclipsedata);
+			// });
 
 			// d3.select("body").selectAll("p")
 			// 	.data(dataset)
