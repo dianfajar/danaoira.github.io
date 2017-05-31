@@ -4,8 +4,6 @@ title: "Curriculum Graph Visualizer 2.0 Brainstorming"
 categories:
   - Projects
 tags:
-  - Curriculum Graph Visualizer
-  - CGV 2.0
   - Projects
 ---
 

@@ -4,9 +4,7 @@ title: "Observational Study on Software Engineering (Micro)Management"
 categories:
   - Academics
 tags:
-  - Leadership
-  - Management
-  - Teamwork
+  - Thoughts
 ---
 
 The subject at hand was about micromanagement and a quote that a couple of my professors have been repeating lately:

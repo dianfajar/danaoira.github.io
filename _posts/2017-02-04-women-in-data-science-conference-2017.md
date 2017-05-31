@@ -4,7 +4,6 @@ title: "Women in Data Science Conference 2017"
 categories:
   - Networking
 tags:
-  - Data Science
   - Conferences
 ---
 
