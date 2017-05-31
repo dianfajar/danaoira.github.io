@@ -1,5 +1,5 @@
 .block-left {
-  width: 40%;
+  width: 35%;
   float: left;
   .content {
     z-index: 1;
@@ -8,7 +8,7 @@
 }
 
 .block-right {
-  width: 60%;
+  width: 65%;
   float: right;
   overflow-y: auto;
 }
@@ -560,7 +560,7 @@ canvas {
     color: rgba($overlay-color, 0.7);
   }
   p {
-    font-size: 16px;
+    font-size: 17px;
     line-height: 1.6;
     color: #6c6c6c;
     margin-bottom: 1.3em;
