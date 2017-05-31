@@ -2,3 +2,13 @@
   url: https://github.com/danaoira/CurriculumGraphVisualizer
   image: images/project-cgv.PNG
   completed: true
+
+- title: Eclipses
+  url: https://github.com/danaoira/eclipses
+  image: 
+  completed: false
+
+- title: Garden
+  url: 
+  image: 
+  completed: false
