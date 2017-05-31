@@ -491,8 +491,6 @@ canvas {
   margin: 50px 0;
   > li {
     margin-bottom: 23px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid darken($white, 8.2353);
     list-style: none;
     &:last-child {
       border: none;
@@ -509,7 +507,7 @@ canvas {
       float: right;
       display: inline-block;
       font-size: 15px;
-      padding-top: 7.5px;
+      padding-top: 6px;
       text-transform: uppercase;
     }
     .post-title {
