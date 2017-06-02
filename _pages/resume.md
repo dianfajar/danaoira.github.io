@@ -20,8 +20,8 @@ permalink: /resume.html
 
 ### Education
 
-- 2016: **M.S. Computer Science**, California State University, Fullerton
-- 2011: **B.A. Public Health Policy**, University of California, Irvine
+- 2013-2016: **M.S. Computer Science**, California State University, Fullerton
+- 2007-2011: **B.A. Public Health Policy**, University of California, Irvine
 
 ---
 
