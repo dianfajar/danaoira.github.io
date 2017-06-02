@@ -46,14 +46,10 @@ permalink: /resume.html
 
 ### Coursework
 
-- 2017: **Data Visualization with D3.js**, [Metis, San Francisco](http://thisismetis.com)
-	- Instructors: [Shirley Wu](http://sxywu.com) and Seemant K
-
-- 2017: **Spark 2.0.1 Fundamentals**, [Insight Data Science](http://insightdatascience.com), San Francisco
-	- Instructor: David Drummond
-
-- 2017: **Presenting Data and Information**, [Edward Tufte](http://edwardtufte.com/title/courses)
-	- Instructor: Dr. Edward Tufte
+- 2017: Professional Development
+	- **Data Visualization with D3.js**, [Metis, San Francisco](http://thisismetis.com) (Instructed by Shirley Wu & Seemant K)
+	- **Spark 2.0.1 Fundamentals**, [Insight Data Science](http://insightdatascience.com), San Francisco (Instructed by David Drummond)
+	- **Presenting Data and Information**, [Edward Tufte](http://edwardtufte.com/title/courses)
 
 - 2013-2016: **M.S. Computer Science**, California State University, Fullerton
 	- Masters Project for Computer Science
