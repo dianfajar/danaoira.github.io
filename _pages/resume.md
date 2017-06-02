@@ -5,7 +5,9 @@ description: "Resume"
 permalink: /resume.html
 ---
 
-## Employment
+*Last updated June 2, 2017*
+
+### Employment
 
 - 2014-2015: **Western Digital Corporation**, Graduate Engineer Intern
 - 2014: **California State University Fullerton**, Graduate Assistant Master of Software Engineering Program
@@ -16,14 +18,14 @@ permalink: /resume.html
 
 ---
 
-## Education
+### Education
 
 - 2016: **M.S. Computer Science**, California State University, Fullerton
 - 2011: **B.A. Public Health Policy**, University of California, Irvine
 
 ---
 
-## Affiliations
+### Affiliations
 
 - 2015-Present: **Association of Computing Machinery (ACM), San Francisco Bay Area**
 	- 2015-Present: Volunteer
@@ -41,7 +43,7 @@ permalink: /resume.html
 
 ---	
 
-## Coursework
+### Coursework
 
 - 2017: **Data Visualization with D3.js**, [Metis, San Francisco](http://thisismetis.com)
 	- Instructors: [Shirley Wu](http://sxywu.com) and Seemant K
@@ -71,6 +73,7 @@ permalink: /resume.html
 	- Discrete Mathematics
 	- Statistics for Natural Sciences
 	- Human Factors for the Web (HCI)
+
 - 2007-2011: **B.A. Public Health Policy**, University of California, Irvine
 	- Public Health Practicum
 	- Epidemiology
