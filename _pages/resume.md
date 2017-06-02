@@ -48,7 +48,7 @@ permalink: /resume.html
 
 - 2017: Professional Development
 	- **Data Visualization with D3.js**, [Metis, San Francisco](http://thisismetis.com) (Instructed by Shirley Wu & Seemant K)
-	- **Spark 2.0.1 Fundamentals**, [Insight Data Science](http://insightdatascience.com), San Francisco (Instructed by David Drummond)
+	- **Spark 2.0.1 Fundamentals**, [Insight Data Science](http://insightdatascience.com) (Instructed by David Drummond)
 	- **Presenting Data and Information**, [Edward Tufte](http://edwardtufte.com/title/courses)
 
 - 2013-2016: **M.S. Computer Science**, California State University, Fullerton
