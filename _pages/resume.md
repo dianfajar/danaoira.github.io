@@ -5,7 +5,7 @@ description: "Resume"
 permalink: /resume.html
 ---
 
-*Last updated June 2, 2017*
+***Last updated June 2, 2017***
 
 ### Employment
 
@@ -28,6 +28,7 @@ permalink: /resume.html
 ### Affiliations
 
 - 2015-Present: **Association of Computing Machinery (ACM), San Francisco Bay Area**
+	- 2017-Present: Volunteer Website Development Coordinator
 	- 2015-Present: Volunteer
 - 2015-Present: **Association of Computing Machinery (ACM), International**
 - 2015: **Association of Computing Machinery (ACM), California State University, Fullerton**
