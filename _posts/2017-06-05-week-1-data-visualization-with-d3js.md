@@ -28,7 +28,11 @@ The course is a cohort of 10 students, ranging from web developers to engineers 
 - **Background:** Hi, my name is Dana.
 - **What you do:** I am a web developer turned computer science graduate currently tinkering with data visualization. I have extensive experience with HTML, CSS, JavaScript and Python. I like to translate things from the physical world and make it pretty - down to the very last pixel on a screen, even through responsive design. I've been making websites since I was 10 and am passionate about the internet, my childhood playground.
 - **Hobbies:** I have too many hobbies, but my current ones are streaming video games and playing with my pet bunnies, Lord Vader and Padme.
-- **Final project goals:** I want to create a version 2.0 of my Master's project, Curriculum Graph Visualizer. I want to uproot it from its console-run UI to an interactive web visualization. ([ver1](https://github.com/danaoira/cgv)) ([ver2 ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
+- **Final project goals:** I want to create a version 2.0 of my Master's project, Curriculum Graph Visualizer. I want to uproot it from its console-run UI to an interactive web visualization.
+
+[00]
+
+([Version 1](https://github.com/danaoira/cgv)) ([Version 2 Ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
 
 ### Basic SVG Shapes
 
@@ -110,6 +114,7 @@ Other interesting sites that were mentioned today:
 
 * In progress *
 
+[00]: /images/00-curriculum-graph-visualizer.PNG "Curriculum Graph Visualizer"
 [01]: /images/01-svg.PNG "Basic SGV Shapes"
 [02]: /images/02-svg-transforms-orig.PNG "SVG Transforms"
 [03]: /images/03-svg-paths.PNG "SVG Paths"
