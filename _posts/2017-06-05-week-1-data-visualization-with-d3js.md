@@ -30,10 +30,6 @@ We quickly dove in with an overview of XML to show its relation to HTML and SVG.
 
 Next, we learned about SVG transforms with `translate()` and `scale()`.
 
-![02]
-
-[Source](https://bl.ocks.org/danaoira/2200db2faa374584f6106dec37796967)
-
 `translate()` we used to move the x and y coordinates of our shapes.
 
 `scale()` changes the zoom of the SVG elements.
@@ -44,8 +40,10 @@ The order that these two transforms appear in the `transform` attribute does mak
 	<img src="/images/02-svg-transforms-orig.PNG">
 	<img src="/images/02-svg-transforms-translate-scale.PNG">
 	<img src="/images/02-svg-transforms-scale-translate.PNG">
-	<figcaption>Original, translate>scale, scale>translate</figcaption>
+	<figcaption> (1) Original, (2) translate / scale, (3) scale / translate</figcaption>
 </figure>
+
+[Source](https://bl.ocks.org/danaoira/2200db2faa374584f6106dec37796967)
 
 I feel that doing `translate` prior to `scale` gives more control with the positioning because the coordinates are updated first and then the scale/zoom is applied.
 
@@ -91,4 +89,4 @@ Other interesting sites that were mentioned today:
 [03]: /images/03-svg-paths.PNG "SVG Paths"
 [04]: /images/04-svg-smiley.PNG "SVG Smiley"
 [05a]: /images/05-svg-path-builder.PNG "SVG Path Builder"
-[05b] /images/05-svg-bunny-in-progress.PNG "SVG Bunny in Progress"
+[05b]: /images/05-svg-bunny-in-progress.PNG "SVG Bunny in Progress"
