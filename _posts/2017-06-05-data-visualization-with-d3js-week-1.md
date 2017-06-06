@@ -8,10 +8,8 @@ tags:
   - SVG
 ---
 
-**Week 1 Schedule**: <a href="#lesson1">Lesson 1</a> / <a href="#lesson2">Lesson 2</a> / <a href="#lab">Lab</a>
+**Week 1 of 6** : <a href="#lesson1">Lesson 1</a> / <a href="#lesson2">Lesson 2</a> / <a href="#lab">Lab</a>
 {: .notice}
-
-- - -
 
 <a name="lesson1"></a>
 ## Lesson 1
