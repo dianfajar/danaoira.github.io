@@ -94,7 +94,7 @@ If had extra time before class ended, so I wanted to challenge myself by making 
 
 This was what I was able to finish by the end of class:
 
-![05b]
+[![05b]](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
 
 [Source](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
 
