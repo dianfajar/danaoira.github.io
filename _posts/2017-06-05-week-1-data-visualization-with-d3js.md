@@ -10,13 +10,31 @@ tags:
 
 [All code examples located on bl.ocks.org](https://bl.ocks.org/danaoira)
 
+# Week 1 Schedule
+
+- Lesson 1
+- Lesson 2
+- Lab
+
 ## Lesson 1
 
-Today was the first day of class for the Data Visualization with D3.js course. The course was created by Kevin Quealy, a graphics editor for the New York Times.
+Today was the first day of class for the Data Visualization with D3.js course. The course was created by [Kevin Quealy](http://kpq.github.io/), a graphics editor and reporter for [The New York Times](https://www.nytimes.com/by/kevin-quealy).
 
+### Itinerary
+
+- Introduction
 - Basic SVG Shapes
 - SVG Transforms
 - SVG Paths
+
+### Introduction
+
+The course is a cohort of 10 students, ranging from web developers to engineers to data scientists and artists.
+
+- **Background:** Hi, my name is Dana.
+- **What you do:** I am a web developer turned computer science graduate currently tinkering with data visualization. I have extensive experience with HTML, CSS, JavaScript and Python. I like to translate things from the physical world down to the very last pixel on a screen, even through responsive design. I've been making websites since I was 10 and am passionate about the internet, my childood playground.
+- **Hobbies:** Too many. Video games and playing with my pet bunnies, Lord Vader and Padme.
+- **Final project goals:** Create an interactive web visualization of my Master's project, Curriculum Graph Visualizer ([ver1](https://github.com/danaoira/cgv)) ([ver2 ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
 
 ### Basic SVG Shapes
 
