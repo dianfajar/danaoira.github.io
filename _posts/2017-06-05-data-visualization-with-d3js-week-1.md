@@ -26,7 +26,7 @@ Today was the first day of class for the Data Visualization with D3.js course. T
 The course is a cohort of 10 students, ranging from web developers to engineers to data scientists and artists.
 
 - **Background:** Hi, my name is Dana.
-- **What you do:** I am a web developer turned computer science graduate currently tinkering with data visualization. I have extensive experience with HTML, CSS, JavaScript and Python. I like to translate things from the physical world and make it pretty - down to the very last pixel on a screen, even through responsive design. I've been making websites since I was 10 and am passionate about the internet, my childhood playground.
+- **What you do:** I am a web developer turned computer science graduate currently tinkering with data visualization. I have extensive experience with HTML, CSS, JavaScript and Python. I like to translate things from the physical world and make them pretty all the down to the very last pixel on a screen, even with responsive design. I've been making websites since I was 10 and am passionate about the internet, my childhood playground.
 - **Hobbies:** I have too many hobbies, but my current ones are streaming video games and playing with my pet bunnies, Lord Vader and Padme.
 - **Final project goals:** I want to create a version 2.0 of my Master's project, Curriculum Graph Visualizer. I want to uproot it from its console-run UI to an interactive web visualization.
 
