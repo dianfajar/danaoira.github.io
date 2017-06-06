@@ -8,7 +8,7 @@ tags:
   - SVG
 ---
 
-[All code examples located on my bl.ocks.org page](https://bl.ocks.org/danaoira)
+[All code examples located on bl.ocks.org](https://bl.ocks.org/danaoira)
 
 ## Lesson 1
 
