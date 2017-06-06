@@ -10,6 +10,8 @@ tags:
 
 **Week 1 Schedule:** <a href="#lesson1">Lesson 1</a> / <a href="#lesson2">Lesson 2</a> / <a href="#lab">Lab</a>
 
+- - -
+
 ## Lesson 1 <a name="lesson1"></a>
 
 Today was the first day of class for the Data Visualization with D3.js course. The course was created by [Kevin Quealy](http://kpq.github.io/), a graphics editor and reporter for [The New York Times](https://www.nytimes.com/by/kevin-quealy).
@@ -106,9 +108,13 @@ Other interesting sites that were mentioned today:
 - [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) - A Twitter hashtag of D3 as art
 - [147 Colors](http://www.colors.commutercreative.com/) - An interactive website of 147 CSS common color names
 
+- - -
+
 ## Lesson 2 <a name="lesson2"></a>
 
 *In progress*
+
+- - -
 
 ## Lab <a name="lab"></a>
 
