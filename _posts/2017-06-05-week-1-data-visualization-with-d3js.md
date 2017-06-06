@@ -57,7 +57,7 @@ To practice paths, we created smiley faces using all the things we learned in cl
 
 [Source](https://bl.ocks.org/danaoira/a98a0845285a01b694fa75badbd4826d)
 
-We were then introduced to a website called SVG Path Builder. It made understanding the differences between lines, quadratics, curves and arcs very easy and also generated the coordinates for the path created.
+We were then introduced to a website called [SVG Path Builder](https://codepen.io/anthonydugois/pen/mewdyZ). It made understanding the differences between lines, quadratics, curves and arcs very easy and also generated the coordinates for the path created.
 
 ![05-path-builder]
 
