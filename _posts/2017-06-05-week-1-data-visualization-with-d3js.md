@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 1: Metis Data Visualization with D3.js"
+title: "Week 1: Data Visualization with D3.js"
 categories:
   - Academics
 tags:
