@@ -8,10 +8,8 @@ tags:
   - SVG
 ---
 
-**Week 1 Schedule**
-:   <a href="#lesson1">Lesson 1</a>
-:   <a href="#lesson2">Lesson 2</a>
-:   <a href="#lab">Lab</a>
+**Week 1 Schedule**: <a href="#lesson1">Lesson 1</a> / <a href="#lesson2">Lesson 2</a> / <a href="#lab">Lab</a>
+{: .notice}
 
 - - -
 
@@ -117,14 +115,16 @@ Other interesting sites that were mentioned today:
 <a name="lesson2"></a>
 ## Lesson 2 
 
-In progress {: .notice}
+In progress
+{: .notice}
 
 - - -
 
 <a name="lab"></a>
 ## Lab
 
-In progress {: .notice}
+In progress
+{: .notice}
 
 [00]: /images/00-curriculum-graph-visualizer.PNG "Curriculum Graph Visualizer"
 [01]: /images/01-svg.PNG "Basic SGV Shapes"
