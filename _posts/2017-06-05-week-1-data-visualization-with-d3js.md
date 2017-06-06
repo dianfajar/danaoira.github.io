@@ -69,7 +69,11 @@ We were open to making more smiley faces, so I wanted to challenge myself by mak
 
 I do agree with the instructors that the SVG Path Builder makes it really easy to understand and make paths, but doing them by hand and planning out the coordinates manually is the better way to go about learning it.
 
-Other interesting sites we learned about were:
+I plan on finishing the bunny's face by drawing its nose and mouth by hand using SVG paths for the next class.
+
+### Miscellaneous
+
+Other interesting sites that were mentioned today:
 
 - [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) - A Twitter hashtag of D3 as art
 - [147 Colors](http://www.colors.commutercreative.com/) - An interactive website of 147 CSS common color names
