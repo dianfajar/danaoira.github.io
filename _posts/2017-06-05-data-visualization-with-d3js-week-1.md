@@ -10,6 +10,10 @@ tags:
 
 **Week 1 Schedule:** <a href="#lesson1">Lesson 1</a> / <a href="#lesson2">Lesson 2</a> / <a href="#lab">Lab</a>
 
+[Lesson 1](#lesson1){: .btn .btn_info}
+[Lesson 2](#lesson2){: .btn .btn_success}
+[Lab](#lab){: .btn .btn_warning}
+
 - - -
 
 <a name="lesson1"></a>
