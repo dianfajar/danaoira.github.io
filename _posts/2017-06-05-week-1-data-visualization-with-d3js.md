@@ -30,7 +30,7 @@ The course is a cohort of 10 students, ranging from web developers to engineers 
 - **Hobbies:** I have too many hobbies, but my current ones are streaming video games and playing with my pet bunnies, Lord Vader and Padme.
 - **Final project goals:** I want to create a version 2.0 of my Master's project, Curriculum Graph Visualizer. I want to uproot it from its console-run UI to an interactive web visualization.
 
-[00]
+![00]
 
 ([Version 1](https://github.com/danaoira/cgv)) ([Version 2 Ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
 
