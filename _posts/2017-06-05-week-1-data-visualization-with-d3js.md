@@ -40,7 +40,7 @@ The order that these two transforms appear in the `transform` attribute does mak
 	<img src="/images/02-svg-transforms-orig.PNG">
 	<img src="/images/02-svg-transforms-translate-scale.PNG">
 	<img src="/images/02-svg-transforms-scale-translate.PNG">
-	<figcaption> (1) Original, (2) translate / scale, (3) scale / translate</figcaption>
+	<figcaption> (left) original, (center) translate > scale, (right) scale > translate</figcaption>
 </figure>
 
 [Source](https://bl.ocks.org/danaoira/2200db2faa374584f6106dec37796967)
