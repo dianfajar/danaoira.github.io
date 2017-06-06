@@ -38,7 +38,7 @@ Next, we learned about SVG transforms with `translate()` and `scale()`.
 
 `scale()` changes the zoom of the SVG elements.
 
-The order that these two transforms appear in the `transform` attribute does make a difference and will execute in order. I felt that `scale()` before `translate()` would be more dangerous and harder to control than the opposite way around.
+The order that these two transforms appear in the `transform` attribute does make a difference and will execute in order.
 
 I feel that doing `translate` prior to `scale` gives more control with the positioning because the coordinates are updated first and then the scale/zoom is applied.
 
