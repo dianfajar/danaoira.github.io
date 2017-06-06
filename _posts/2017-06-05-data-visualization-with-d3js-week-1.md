@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 1: Data Visualization with D3.js"
+title: "Data Visualization with D3.js - Week 1"
 categories:
   - Academics
 tags:
@@ -108,11 +108,11 @@ Other interesting sites that were mentioned today:
 
 ## Lesson 2 <a name="lesson2"></a>
 
-*** In progress ***
+*In progress*
 
 ## Lab <a name="lab"></a>
 
-*** In progress ***
+*In progress*
 
 [00]: /images/00-curriculum-graph-visualizer.PNG "Curriculum Graph Visualizer"
 [01]: /images/01-svg.PNG "Basic SGV Shapes"
