@@ -8,11 +8,10 @@ tags:
   - SVG
 ---
 
-**Week 1 Schedule:** <a href="#lesson1">Lesson 1</a> / <a href="#lesson2">Lesson 2</a> / <a href="#lab">Lab</a>
-
-[Lesson 1](#lesson1){: .btn .btn_info}
-[Lesson 2](#lesson2){: .btn .btn_success}
-[Lab](#lab){: .btn .btn_warning}
+**Week 1 Schedule**
+:   <a href="#lesson1">Lesson 1</a>
+:   <a href="#lesson2">Lesson 2</a>
+:   <a href="#lab">Lab</a>
 
 - - -
 
@@ -37,7 +36,7 @@ The course is a cohort of 10 students, ranging from web developers to engineers 
 - **Hobbies:** I have too many hobbies, but my current ones are streaming video games and playing with my pet bunnies, Lord Vader and Padme.
 - **Final project goals:** I want to create a version 2.0 of my Master's project, Curriculum Graph Visualizer. I want to uproot it from its console-run UI to an interactive web visualization.
 
-![00]
+[![00]](https://github.com/danaoira/cgv)
 
 ([Version 1](https://github.com/danaoira/cgv)) ([Version 2 Ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
 
@@ -49,7 +48,7 @@ We quickly dove in with an overview of XML to show its relation to HTML and SVG.
 
 I couldn't resist making a ["Hello, world!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
-![01]
+[![01]](https://bl.ocks.org/danaoira/4a5d95a597eae4d15a90d6e56ebf048e)
 
 [Source](https://bl.ocks.org/danaoira/4a5d95a597eae4d15a90d6e56ebf048e)
 
@@ -80,13 +79,13 @@ The next topic covered SVG paths, which went over lines, quadratic, curves and a
 
 We first started drawing a shape with paths out by hand, which was a blocky heart. It was a nice example of drawing by hand and understanding the coordinate system.
 
-![03]
+[![03]](https://bl.ocks.org/danaoira/f0262a344f5046dc1072d1ea4a2bb550)
 
 [Source](https://bl.ocks.org/danaoira/f0262a344f5046dc1072d1ea4a2bb550)
 
 To practice paths, we created smiley faces using all the things we learned in class.
 
-![04]
+[![04]](https://bl.ocks.org/danaoira/a98a0845285a01b694fa75badbd4826d)
 
 [Source](https://bl.ocks.org/danaoira/a98a0845285a01b694fa75badbd4826d)
 
@@ -118,14 +117,14 @@ Other interesting sites that were mentioned today:
 <a name="lesson2"></a>
 ## Lesson 2 
 
-*In progress*
+In progress {: .notice}
 
 - - -
 
 <a name="lab"></a>
 ## Lab
 
-*In progress*
+In progress {: .notice}
 
 [00]: /images/00-curriculum-graph-visualizer.PNG "Curriculum Graph Visualizer"
 [01]: /images/01-svg.PNG "Basic SGV Shapes"
