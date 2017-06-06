@@ -16,7 +16,7 @@ tags:
 
 Today was the first day of class for the Data Visualization with D3.js course. The course was created by [Kevin Quealy](http://kpq.github.io/), a graphics editor and reporter for [The New York Times](https://www.nytimes.com/by/kevin-quealy).
 
-### Itinerary
+### Topics
 
 - Introduction
 - Basic SVG Shapes
@@ -101,13 +101,7 @@ I do agree with the instructors that the SVG Path Builder makes it really easy t
 
 I plan on finishing the bunny's face by drawing its nose and mouth by hand using SVG paths for the next class.
 
-### Miscellaneous
-
-Other interesting sites that were mentioned today:
-
-- [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) - A Twitter hashtag of D3 as art
-- [147 Colors](http://www.colors.commutercreative.com/) - An interactive website of 147 CSS common color names
-
+Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) / [147 Colors](http://www.colors.commutercreative.com/)
 
 <a name="lesson2"></a>
 ## Lesson 2 
