@@ -19,7 +19,7 @@ Today was the first day of class for the Data Visualization with D3.js course. T
 
 ### Basic SVG Shapes
 
-We quickly dove in with a quick overview of XML to show its relation to HTML and SVG. We learned simple SVG shapes and attributes.
+We quickly dove in with an overview of XML to show its relation to HTML and SVG. We learned simple SVG shapes and attributes.
 
 ![01]
 
