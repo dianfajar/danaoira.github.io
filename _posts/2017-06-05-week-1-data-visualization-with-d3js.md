@@ -41,7 +41,7 @@ Next, we learned about SVG transforms with `translate()` and `scale()`.
 The order that these two transforms appear in the `transform` attribute does make a difference and will execute in order.
 
 <figure class="third">
-	<img src="/images/02-svg-transforms.PNG">
+	<img src="/images/02-svg-transforms-orig.PNG">
 	<img src="/images/02-svg-transforms-translate-scale.PNG">
 	<img src="/images/02-svg-transforms-scale-translate.PNG">
 	<figcaption>Original, translate>scale, scale>translate</figcaption>
