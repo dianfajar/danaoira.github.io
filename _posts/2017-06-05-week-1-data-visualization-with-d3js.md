@@ -40,6 +40,13 @@ Next, we learned about SVG transforms with `translate()` and `scale()`.
 
 The order that these two transforms appear in the `transform` attribute does make a difference and will execute in order.
 
+<figure class="third">
+	<img src="/02-svg-transforms.PNG">
+	<img src="/02-svg-transforms-translate-scale.PNG">
+	<img src="/02-svg-transforms-scale-translate.PNG">
+	<figcaption>Original, translate>scale, scale>translate</figcaption>
+</figure>
+
 I feel that doing `translate` prior to `scale` gives more control with the positioning because the coordinates are updated first and then the scale/zoom is applied.
 
 ### SVG Paths
@@ -60,11 +67,11 @@ To practice paths, we created smiley faces using all the things we learned in cl
 
 We were then introduced to a website called [SVG Path Builder](https://codepen.io/anthonydugois/pen/mewdyZ). It made understanding the differences between lines, quadratics, curves and arcs very easy and also generated the coordinates for the path created.
 
-![05-path-builder]
+![05a]
 
 We were open to making more smiley faces, so I wanted to challenge myself by making a bunny smiley! This was what I was able to finish by the end of class.
 
-![05-bunny]
+![05b]
 
 [Source](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
 
@@ -80,8 +87,8 @@ Other interesting sites that were mentioned today:
 - [147 Colors](http://www.colors.commutercreative.com/) - An interactive website of 147 CSS common color names
 
 [01]: /images/01-svg.PNG "Basic SGV Shapes"
-[02]: /images/02-svg-transforms.PNG "SVG Transforms"
+[02]: /images/02-svg-transforms-orig.PNG "SVG Transforms"
 [03]: /images/03-svg-paths.PNG "SVG Paths"
 [04]: /images/04-svg-smiley.PNG "SVG Smiley"
-[05-path-builder]: /images/05-svg-path-builder.PNG "SVG Path Builder"
-[05-bunny]: /images/05-svg-bunny-in-progress.PNG "SVG Bunny in Progress"
+[05a]: /images/05-svg-path-builder.PNG "SVG Path Builder"
+[05b] /images/05-svg-bunny-in-progress.PNG "SVG Bunny in Progress"
