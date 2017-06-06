@@ -10,13 +10,9 @@ tags:
 
 [All code examples located on bl.ocks.org](https://bl.ocks.org/danaoira)
 
-# Week 1 Schedule
+Week 1 Schedule: <a href="#lesson1">Lesson 1</a> / Lesson 2 / Lab
 
-- Lesson 1
-- Lesson 2
-- Lab
-
-## Lesson 1
+## <a name="lesson1">Lesson 1</a>
 
 Today was the first day of class for the Data Visualization with D3.js course. The course was created by [Kevin Quealy](http://kpq.github.io/), a graphics editor and reporter for [The New York Times](https://www.nytimes.com/by/kevin-quealy).
 
@@ -85,13 +81,15 @@ We were then introduced to a website called [SVG Path Builder](https://codepen.i
 
 ![05a]
 
-We were open to making more smiley faces, so I wanted to challenge myself by making a bunny smiley! This was what I was able to finish by the end of class.
+If had extra time before class ended, so I wanted to challenge myself by making a bunny smiley!
+
+This was what I was able to finish by the end of class:
 
 ![05b]
 
 [Source](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
 
-I do agree with the instructors that the SVG Path Builder makes it really easy to understand and make paths, but doing them by hand and planning out the coordinates manually is the better way to go about learning it.
+I do agree with the instructors that the SVG Path Builder makes it really easy to learn and make paths, but doing them by hand and planning out the coordinates manually is the best way to truly understand it.
 
 I plan on finishing the bunny's face by drawing its nose and mouth by hand using SVG paths for the next class.
 
@@ -101,6 +99,14 @@ Other interesting sites that were mentioned today:
 
 - [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) - A Twitter hashtag of D3 as art
 - [147 Colors](http://www.colors.commutercreative.com/) - An interactive website of 147 CSS common color names
+
+## <a name="lesson-2">Lesson 2</a>
+
+* In progress *
+
+## <a name="lab">Lab</a>
+
+* In progress *
 
 [01]: /images/01-svg.PNG "Basic SGV Shapes"
 [02]: /images/02-svg-transforms-orig.PNG "SVG Transforms"
