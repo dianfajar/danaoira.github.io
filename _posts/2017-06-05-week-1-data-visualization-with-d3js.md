@@ -9,7 +9,9 @@ tags:
   - SVG
 ---
 
-[(All code examples located on my bl.ocks.org page)](https://bl.ocks.org/danaoira)
+[All code examples located on my bl.ocks.org page](https://bl.ocks.org/danaoira)
+
+## Lesson 1
 
 Today was the first day of class for the Data Visualization with D3.js course. The course was created by Kevin Quealy, a graphics editor for the New York Times.
 
