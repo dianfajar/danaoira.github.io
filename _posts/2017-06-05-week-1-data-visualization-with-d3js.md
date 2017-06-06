@@ -8,7 +8,7 @@ tags:
   - SVG
 ---
 
-**Week 1 Schedule:** <a href="#lesson1">Lesson 1</a> / Lesson 2 / Lab
+**Week 1 Schedule:** <a href="#lesson1">Lesson 1</a> / <a href="#lesson2">Lesson 2</a> / <a href="#lab">Lab</a>
 
 ## Lesson 1 <a name="lesson1"></a>
 
@@ -106,13 +106,13 @@ Other interesting sites that were mentioned today:
 - [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) - A Twitter hashtag of D3 as art
 - [147 Colors](http://www.colors.commutercreative.com/) - An interactive website of 147 CSS common color names
 
-## Lesson 2 <a name="lesson-2"></a>
+## Lesson 2 <a name="lesson2"></a>
 
-* In progress *
+*** In progress ***
 
 ## Lab <a name="lab"></a>
 
-* In progress *
+*** In progress ***
 
 [00]: /images/00-curriculum-graph-visualizer.PNG "Curriculum Graph Visualizer"
 [01]: /images/01-svg.PNG "Basic SGV Shapes"
