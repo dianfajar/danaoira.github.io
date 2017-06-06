@@ -12,7 +12,8 @@ tags:
 
 - - -
 
-## Lesson 1 <a name="lesson1"></a>
+<a name="lesson1"></a>
+## Lesson 1
 
 Today was the first day of class for the Data Visualization with D3.js course. The course was created by [Kevin Quealy](http://kpq.github.io/), a graphics editor and reporter for [The New York Times](https://www.nytimes.com/by/kevin-quealy).
 
@@ -110,13 +111,15 @@ Other interesting sites that were mentioned today:
 
 - - -
 
-## Lesson 2 <a name="lesson2"></a>
+<a name="lesson2"></a>
+## Lesson 2 
 
 *In progress*
 
 - - -
 
-## Lab <a name="lab"></a>
+<a name="lab"></a>
+## Lab
 
 *In progress*
 
