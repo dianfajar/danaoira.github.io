@@ -108,7 +108,6 @@ Other interesting sites that were mentioned today:
 - [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) - A Twitter hashtag of D3 as art
 - [147 Colors](http://www.colors.commutercreative.com/) - An interactive website of 147 CSS common color names
 
-- - -
 
 <a name="lesson2"></a>
 ## Lesson 2 
@@ -116,7 +115,6 @@ Other interesting sites that were mentioned today:
 In progress
 {: .notice}
 
-- - -
 
 <a name="lab"></a>
 ## Lab
