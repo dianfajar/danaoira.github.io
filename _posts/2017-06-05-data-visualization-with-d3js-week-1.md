@@ -12,18 +12,18 @@ tags:
 {: .notice}
 
 <a name="lesson1"></a>
-# Lesson 1
+## Lesson 1
 
 Today was the first day of class for the Data Visualization with D3.js course. The course was created by [Kevin Quealy](http://kpq.github.io/), a graphics editor and reporter for [The New York Times](https://www.nytimes.com/by/kevin-quealy).
 
-## Topics
+### Topics
 
 - Introduction
 - Basic SVG Shapes
 - SVG Transforms
 - SVG Paths
 
-## Introduction
+### Introduction
 
 The course is a cohort of 10 students, ranging from web developers to engineers to data scientists and artists.
 
@@ -36,7 +36,7 @@ The course is a cohort of 10 students, ranging from web developers to engineers 
 
 ([Version 1](https://github.com/danaoira/cgv)) ([Version 2 Ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
 
-## Basic SVG Shapes
+### Basic SVG Shapes
 
 On to the fun part - learning!
 
@@ -69,7 +69,7 @@ The order that these two transforms appear in the `transform` attribute does mak
 
 I feel that doing `translate` prior to `scale` gives more control with the positioning because the coordinates are updated first and then the scale/zoom is applied.
 
-## SVG Paths
+### SVG Paths
 
 The next topic covered SVG paths, which went over lines, quadratic, curves and arcs.
 
@@ -87,7 +87,7 @@ To practice paths, we created smiley faces using all the things we learned in cl
 
 We were then introduced to a website called [SVG Path Builder](https://codepen.io/anthonydugois/pen/mewdyZ). It made understanding the differences between lines, quadratics, curves and arcs very easy and also generated the coordinates for the path created.
 
-[![05a]](https://codepen.io/anthonydugois/pen/mewdyZ)
+![05a]
 
 If had extra time before class ended, so I wanted to challenge myself by making a bunny smiley!
 
@@ -104,14 +104,14 @@ I plan on finishing the bunny's face by drawing its nose and mouth by hand using
 Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) / [147 Colors](http://www.colors.commutercreative.com/)
 
 <a name="lesson2"></a>
-# Lesson 2 
+## Lesson 2 
 
 In progress
 {: .notice}
 
 
 <a name="lab"></a>
-# Lab
+## Lab
 
 In progress
 {: .notice}
