@@ -8,11 +8,9 @@ tags:
   - SVG
 ---
 
-[All code examples located on bl.ocks.org](https://bl.ocks.org/danaoira)
+**Week 1 Schedule:** <a href="#lesson1">Lesson 1</a> / Lesson 2 / Lab
 
-Week 1 Schedule: <a href="#lesson1">Lesson 1</a> / Lesson 2 / Lab
-
-## <a name="lesson1">Lesson 1</a>
+## Lesson 1 <a name="lesson1"></a>
 
 Today was the first day of class for the Data Visualization with D3.js course. The course was created by [Kevin Quealy](http://kpq.github.io/), a graphics editor and reporter for [The New York Times](https://www.nytimes.com/by/kevin-quealy).
 
@@ -28,13 +26,17 @@ Today was the first day of class for the Data Visualization with D3.js course. T
 The course is a cohort of 10 students, ranging from web developers to engineers to data scientists and artists.
 
 - **Background:** Hi, my name is Dana.
-- **What you do:** I am a web developer turned computer science graduate currently tinkering with data visualization. I have extensive experience with HTML, CSS, JavaScript and Python. I like to translate things from the physical world down to the very last pixel on a screen, even through responsive design. I've been making websites since I was 10 and am passionate about the internet, my childood playground.
-- **Hobbies:** Too many. Video games and playing with my pet bunnies, Lord Vader and Padme.
-- **Final project goals:** Create an interactive web visualization of my Master's project, Curriculum Graph Visualizer ([ver1](https://github.com/danaoira/cgv)) ([ver2 ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
+- **What you do:** I am a web developer turned computer science graduate currently tinkering with data visualization. I have extensive experience with HTML, CSS, JavaScript and Python. I like to translate things from the physical world and make it pretty - down to the very last pixel on a screen, even through responsive design. I've been making websites since I was 10 and am passionate about the internet, my childhood playground.
+- **Hobbies:** I have too many hobbies, but my current ones are streaming video games and playing with my pet bunnies, Lord Vader and Padme.
+- **Final project goals:** I want to create a version 2.0 of my Master's project, Curriculum Graph Visualizer. I want to uproot it from its console-run UI to an interactive web visualization. ([ver1](https://github.com/danaoira/cgv)) ([ver2 ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
 
 ### Basic SVG Shapes
 
+On to the fun part - learning!
+
 We quickly dove in with an overview of XML to show its relation to HTML and SVG. We learned simple SVG shapes and attributes.
+
+I couldn't resist making a ["Hello, world!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
 ![01]
 
@@ -100,11 +102,11 @@ Other interesting sites that were mentioned today:
 - [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) - A Twitter hashtag of D3 as art
 - [147 Colors](http://www.colors.commutercreative.com/) - An interactive website of 147 CSS common color names
 
-## <a name="lesson-2">Lesson 2</a>
+## Lesson 2 <a name="lesson-2"></a>
 
 * In progress *
 
-## <a name="lab">Lab</a>
+## Lab <a name="lab"></a>
 
 * In progress *
 
