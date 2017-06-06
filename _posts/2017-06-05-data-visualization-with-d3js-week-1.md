@@ -12,18 +12,18 @@ tags:
 {: .notice}
 
 <a name="lesson1"></a>
-## Lesson 1
+# Lesson 1
 
 Today was the first day of class for the Data Visualization with D3.js course. The course was created by [Kevin Quealy](http://kpq.github.io/), a graphics editor and reporter for [The New York Times](https://www.nytimes.com/by/kevin-quealy).
 
-### Itinerary
+## Itinerary
 
 - Introduction
 - Basic SVG Shapes
 - SVG Transforms
 - SVG Paths
 
-### Introduction
+## Introduction
 
 The course is a cohort of 10 students, ranging from web developers to engineers to data scientists and artists.
 
@@ -36,7 +36,7 @@ The course is a cohort of 10 students, ranging from web developers to engineers 
 
 ([Version 1](https://github.com/danaoira/cgv)) ([Version 2 Ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
 
-### Basic SVG Shapes
+## Basic SVG Shapes
 
 On to the fun part - learning!
 
@@ -48,7 +48,7 @@ I couldn't resist making a ["Hello, world!"](https://en.wikipedia.org/wiki/%22He
 
 [Source](https://bl.ocks.org/danaoira/4a5d95a597eae4d15a90d6e56ebf048e)
 
-### SVG Transforms
+## SVG Transforms
 
 Next, we learned about SVG transforms with `translate()` and `scale()`.
 
@@ -69,7 +69,7 @@ The order that these two transforms appear in the `transform` attribute does mak
 
 I feel that doing `translate` prior to `scale` gives more control with the positioning because the coordinates are updated first and then the scale/zoom is applied.
 
-### SVG Paths
+## SVG Paths
 
 The next topic covered SVG paths, which went over lines, quadratic, curves and arcs.
 
@@ -108,10 +108,8 @@ Other interesting sites that were mentioned today:
 - [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) - A Twitter hashtag of D3 as art
 - [147 Colors](http://www.colors.commutercreative.com/) - An interactive website of 147 CSS common color names
 
-- - -
-
 <a name="lesson2"></a>
-## Lesson 2 
+# Lesson 2 
 
 In progress
 {: .notice}
@@ -119,7 +117,7 @@ In progress
 - - -
 
 <a name="lab"></a>
-## Lab
+# Lab
 
 In progress
 {: .notice}
