@@ -4,7 +4,6 @@ title: "Week 1: Data Visualization with D3.js"
 categories:
   - Academics
 tags:
-  - Metis
   - D3.js
   - SVG
 ---
