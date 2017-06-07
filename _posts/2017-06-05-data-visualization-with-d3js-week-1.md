@@ -6,9 +6,11 @@ categories:
 tags:
   - D3.js
   - SVG
+comments: true
 ---
 
-**Info:** This post is still in progress. {: .notice_info}
+**Info:** This post is still in progress.
+{: .notice_info}
 
 **Week 1 of 6** : <a href="#lesson1">Lesson 1</a> / <a href="#lesson2">Lesson 2</a> / <a href="#lab">Lab</a>
 {: .notice}
@@ -89,7 +91,9 @@ To practice paths, we created smiley faces using all the things we learned in cl
 
 We were then introduced to a website called [SVG Path Builder](https://codepen.io/anthonydugois/pen/mewdyZ). It made understanding the differences between lines, quadratics, curves and arcs very easy and also generated the coordinates for the path created.
 
-![05a]
+[![05a]](https://codepen.io/anthonydugois/pen/mewdyZ)
+
+[View Site](https://codepen.io/anthonydugois/pen/mewdyZ)
 
 I had extra time before class ended, so I wanted to challenge myself by making a bunny smiley!
 
@@ -110,14 +114,13 @@ Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://
 <a name="lesson2"></a>
 ## Lesson 2 
 
-In progress
+Incoming!
 {: .notice}
-
 
 <a name="lab"></a>
 ## Lab
 
-In progress
+Incoming!
 {: .notice}
 
 [00]: /images/00-curriculum-graph-visualizer.PNG "Curriculum Graph Visualizer"
