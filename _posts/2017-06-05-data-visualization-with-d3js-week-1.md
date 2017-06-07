@@ -95,7 +95,7 @@ We were then introduced to a website called [SVG Path Builder](https://codepen.i
 
 [Site](https://codepen.io/anthonydugois/pen/mewdyZ)
 
-I had extra time before class ended, so I wanted to challenge myself by [making a bunny smiley](/2017-06-06-drawing-a-bunny-with-svg.md)!
+I had extra time before class ended, so I wanted to challenge myself by [making a bunny smiley](/2017-06-06-drawing-a-bunny-with-svg/)!
 
 Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) / [147 Colors](http://www.colors.commutercreative.com/)
 
