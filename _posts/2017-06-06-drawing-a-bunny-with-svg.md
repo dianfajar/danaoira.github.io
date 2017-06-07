@@ -29,7 +29,7 @@ Doing this manually by hand and planning out the coordinates forces you to think
 
 ### Making It "By Hand"
 
-After making the face, I wanted to do something all "by hand" without generators doing all the math for me.
+After fine-tuning the head, I wanted to do something all "by hand" without generators doing all the math for me.
 
 I started off by finishing what I had started: the nose and mouth.
 
