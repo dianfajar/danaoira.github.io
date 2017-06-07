@@ -50,7 +50,7 @@ I couldn't resist making a ["Hello, world!"](https://en.wikipedia.org/wiki/%22He
 
 [![01]](https://bl.ocks.org/danaoira/4a5d95a597eae4d15a90d6e56ebf048e)
 
-[Source](https://bl.ocks.org/danaoira/4a5d95a597eae4d15a90d6e56ebf048e)
+[Code](https://bl.ocks.org/danaoira/4a5d95a597eae4d15a90d6e56ebf048e)
 
 ### SVG Transforms
 
@@ -69,7 +69,7 @@ The order that these two transforms appear in the `transform` attribute does mak
 	<figcaption> (1) original, (2) translate > scale, (3) scale > translate</figcaption>
 </figure>
 
-[Source](https://bl.ocks.org/danaoira/2200db2faa374584f6106dec37796967)
+[Code](https://bl.ocks.org/danaoira/2200db2faa374584f6106dec37796967)
 
 I feel that doing `translate` prior to `scale` gives more control with the positioning because the coordinates are updated first and then the scale/zoom is applied.
 
@@ -81,19 +81,19 @@ We first started drawing a shape with paths out by hand, which was a blocky hear
 
 [![03]](https://bl.ocks.org/danaoira/f0262a344f5046dc1072d1ea4a2bb550)
 
-[Source](https://bl.ocks.org/danaoira/f0262a344f5046dc1072d1ea4a2bb550)
+[Code](https://bl.ocks.org/danaoira/f0262a344f5046dc1072d1ea4a2bb550)
 
 To practice paths, we created smiley faces using all the things we learned in class.
 
 [![04]](https://bl.ocks.org/danaoira/a98a0845285a01b694fa75badbd4826d)
 
-[Source](https://bl.ocks.org/danaoira/a98a0845285a01b694fa75badbd4826d)
+[Code](https://bl.ocks.org/danaoira/a98a0845285a01b694fa75badbd4826d)
 
 We were then introduced to a website called [SVG Path Builder](https://codepen.io/anthonydugois/pen/mewdyZ). It made understanding the differences between lines, quadratics, curves and arcs very easy and also generated the coordinates for the path created.
 
 [![05a]](https://codepen.io/anthonydugois/pen/mewdyZ)
 
-[View Site](https://codepen.io/anthonydugois/pen/mewdyZ)
+[Site](https://codepen.io/anthonydugois/pen/mewdyZ)
 
 I had extra time before class ended, so I wanted to challenge myself by making a bunny smiley!
 
@@ -114,6 +114,9 @@ Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://
 Here is the final version of the bunny smiley!
 
 [![05d]](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
+
+
+[Code](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
 
 The face outline is done with coordinates from SVG Path Builder. All others are hand coded to understand how **Cubic** and **Quadratic** curves worked.
 
