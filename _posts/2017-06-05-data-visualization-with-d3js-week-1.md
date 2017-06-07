@@ -113,7 +113,7 @@ Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://
 
 Here is the final version of the bunny smiley!
 
-[![05d]](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
+[![05e]](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
 
 
 [Code](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
@@ -145,3 +145,4 @@ Incoming!
 [05b]: /images/05-svg-bunny-in-progress.PNG "SVG Bunny in Progress"
 [05c]: /images/05-svg-bunny-final.PNG "SVG Bunny Final"
 [05d]: /images/05-svg-bunny-final2.PNG "SVG Bunny Final 2"
+[05e]: /images/05-svg-bunny-final3.PNG "SVG Bunny Final 3"
