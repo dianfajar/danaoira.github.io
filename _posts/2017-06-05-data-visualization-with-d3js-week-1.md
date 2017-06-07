@@ -99,7 +99,7 @@ I had extra time before class ended, so I wanted to challenge myself by making a
 
 This was what I was able to finish by the end of class:
 
-[![05b]]
+![05b]
 
 Our instructors encouraged us to write out paths by hand rather than relying too much on SVG Path Builder. I agree with this completely!
 
@@ -113,13 +113,13 @@ Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://
 
 Here is the final version of the bunny smiley!
 
-![05d](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
+[![05d]](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
 
 The face outline is done with coordinates from SVG Path Builder. All others are hand coded to understand how **Cubic** and **Quadratic** curves worked.
 
 I practiced grouping in SVG with the `<g>` tag for the eyes and mouth. The mouth shape is also done by hand using cubic curves.
 
-I'm very tempted to make an SVG of moustaches or a cupcake...
+That wasn't too painful, but now I'm very tempted to make an SVG of moustaches or a cupcake!
 
 <a name="lesson2"></a>
 ## Lesson 2 
