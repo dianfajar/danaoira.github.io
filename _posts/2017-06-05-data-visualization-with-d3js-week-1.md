@@ -12,7 +12,7 @@ comments: true
 **Info:** This post is in progress.
 {: .notice_info}
 
-**Week 1 of 6** : <a href="#lesson1">Lesson 1</a> - <a href="#lesson2">Lesson 2</a> - <a href="#lab">Lab</a>
+**Week 1 of 6** : <a href="#lesson1">Lesson 1</a> | <a href="#lesson2">Lesson 2</a> | <a href="#lab">Lab</a>
 {: .notice}
 
 <a name="lesson1"></a>
@@ -38,7 +38,7 @@ The course is a cohort of 10 students, ranging from web developers to engineers 
 
 [![00]](https://github.com/danaoira/cgv)
 
-([Version 1](https://github.com/danaoira/cgv)) ([Version 2 Ideas](https://danaoira.github.io/curriculum-graph-visualizer-v2-brainstorming/))
+([Version 1](https://github.com/danaoira/cgv)) ([Version 2 Ideas](/curriculum-graph-visualizer-v2-brainstorming/))
 
 ### Basic SVG Shapes
 
@@ -95,7 +95,7 @@ We were then introduced to a website called [SVG Path Builder](https://codepen.i
 
 [Site](https://codepen.io/anthonydugois/pen/mewdyZ)
 
-I had extra time before class ended, so I wanted to challenge myself by [making a bunny smiley](2017-06-06-drawing-a-bunny-with-svg.md)!
+I had extra time before class ended, so I wanted to challenge myself by [making a bunny smiley](/2017-06-06-drawing-a-bunny-with-svg.md)!
 
 Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) / [147 Colors](http://www.colors.commutercreative.com/)
 

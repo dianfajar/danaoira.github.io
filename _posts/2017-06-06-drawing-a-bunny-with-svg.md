@@ -8,14 +8,16 @@ tags:
 comments: true
 ---
 
-**Info:** This post is part of [Data Visualization with D3.js - Week 1](https://danaoira.github.io/data-visualization-with-d3js-week-1/)
+**Info:** This post is part of [Data Visualization with D3.js - Week 1](/data-visualization-with-d3js-week-1/)
 {: .notice_info}
+
+I had extra time before class ended, so I wanted to challenge myself by making a bunny smiley!
+
+# Generating SVG Curves
 
 [![05a]](https://codepen.io/anthonydugois/pen/mewdyZ)
 
 [Site](https://codepen.io/anthonydugois/pen/mewdyZ)
-
-I had extra time before class ended, so I wanted to challenge myself by making a bunny smiley!
 
 This was what I was able to finish by the end of class:
 
