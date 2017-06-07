@@ -53,6 +53,6 @@ That wasn't too painful, but now I'm very tempted to make an SVG of a mustache o
 
 [05a]: /images/05-svg-path-builder.PNG "SVG Path Builder"
 [05b]: /images/05-svg-bunny-in-progress.PNG "SVG Bunny in Progress"
-[05c]: /images/05-svg-bunny-final.PNG "SVG Bunny Final"
+[05c]: /images/05-svg-bunny-final.png "SVG Bunny Final"
 [05d]: /images/05-svg-bunny-final2.PNG "SVG Bunny Final 2"
 [05e]: /images/05-svg-bunny-final3.PNG "SVG Bunny Final 3"
