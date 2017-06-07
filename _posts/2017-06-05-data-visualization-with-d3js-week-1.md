@@ -8,6 +8,8 @@ tags:
   - SVG
 ---
 
+**Info:** This post is still in progress. {: .notice_info}
+
 **Week 1 of 6** : <a href="#lesson1">Lesson 1</a> / <a href="#lesson2">Lesson 2</a> / <a href="#lab">Lab</a>
 {: .notice}
 
@@ -89,7 +91,7 @@ We were then introduced to a website called [SVG Path Builder](https://codepen.i
 
 ![05a]
 
-If had extra time before class ended, so I wanted to challenge myself by making a bunny smiley!
+I had extra time before class ended, so I wanted to challenge myself by making a bunny smiley!
 
 This was what I was able to finish by the end of class:
 
@@ -97,9 +99,11 @@ This was what I was able to finish by the end of class:
 
 [Source](https://bl.ocks.org/danaoira/c729c4a4b848099edc7c5b5ad90ccb18)
 
-I do agree with the instructors that the SVG Path Builder makes it really easy to learn and make paths, but doing them by hand and planning out the coordinates manually is the best way to truly understand it.
+Our instructors encouraged us to write out paths by hand rather than relying too much on SVG Path Builder. I definitely agree with this practice!
 
-I plan on finishing the bunny's face by drawing its nose and mouth by hand using SVG paths for the next class.
+Doing this manually by hand and planning out the coordinates forces you to think about how a computer processes and manipulates the path data. This is an important mindset to have, especially from a computer science background where understanding how a computer works makes for an invaluable skill.
+
+I plan on finishing the bunny's face by drawing its nose and mouth by hand using SVG paths for the next class!
 
 Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) / [147 Colors](http://www.colors.commutercreative.com/)
 
