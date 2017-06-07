@@ -11,9 +11,9 @@ comments: true
 **Info:** This post is part of [Data Visualization with D3.js - Week 1](/data-visualization-with-d3js-week-1/)
 {: .notice_info}
 
-I had extra time before class ended, so I wanted to challenge myself by making a bunny smiley!
+I decided to make a bunny using SVG to practice the using different types of curves and transforms.
 
-# Generating SVG Curves
+## Generating SVG Curves
 
 [![05a]](https://codepen.io/anthonydugois/pen/mewdyZ)
 
@@ -27,11 +27,13 @@ Our instructors encouraged us to write out paths by hand rather than relying too
 
 Doing this manually by hand and planning out the coordinates forces you to think about how a computer processes and manipulates the path data. This is an important mindset to have, especially from a computer science background where understanding how a computer works makes for an invaluable skill.
 
-### Tinkering
+### Making It "By Hand"
+
+After making the face, I wanted to do something all "by hand" without generators doing all the math for me.
 
 I started off by finishing what I had started: the nose and mouth.
 
-The face outline is done with coordinates from SVG Path Builder. All others are hand coded to understand how **Cubic** and **Quadratic** curves worked.
+The face outline was done with coordinates from SVG Path Builder. All others are hand coded to understand how **Cubic** and **Quadratic** curves worked.
 
 I practiced grouping in SVG with the `<g>` tag for the eyes and mouth. The mouth shape is also done by hand using cubic curves.
 
