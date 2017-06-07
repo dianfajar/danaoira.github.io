@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVG Bunny"
+title: "Drawing a bunny with SVG!"
 categories:
   - Academics
 tags:
