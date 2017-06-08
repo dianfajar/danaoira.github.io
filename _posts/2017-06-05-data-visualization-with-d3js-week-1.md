@@ -102,7 +102,7 @@ Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://
 <a name="lesson2"></a>
 ## Lesson 2 
 
-Incoming!
+**Draft:** [Available here on my GitHub repo](https://github.com/danaoira/metisD3/tree/master/class02).
 {: .notice}
 
 <a name="lab"></a>
