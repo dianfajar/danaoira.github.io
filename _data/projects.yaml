@@ -1,4 +1,9 @@
 - title: Data Visualization with D3.js
+  url: https://bl.ocks.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c
+  image: images/nations-v3.PNG
+  completed: true 
+
+- title: Data Visualization with D3.js
   url: https://github.com/danaoira/metisD3
   image: images/metis-logo.png
   completed: true
