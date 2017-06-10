@@ -16,7 +16,7 @@ comments: true
 {: .notice}
 
 <a name="lesson1"></a>
-## Class 1: Intros and SVG
+## Class 1: Introductions and SVG
 
 Today was the first day of class for the **Data Visualization with D3.js** course. The course was created by [Kevin Quealy](http://kpq.github.io/), a graphics editor and reporter for [The New York Times](https://www.nytimes.com/by/kevin-quealy).
 
@@ -100,9 +100,9 @@ I had extra time before class ended, so I wanted to challenge myself by [making 
 Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://twitter.com/hashtag/d3brokeandmadeart) / [147 Colors](http://www.colors.commutercreative.com/)
 
 <a name="lesson2"></a>
-## Class 2 
+## Class 2: Data Binding and Entering
 
-**Draft:** [Available here on my GitHub repo](https://github.com/danaoira/metisD3/tree/master/class02).
+**Note:** [View the full post](https://github.com/danaoira/metisD3/tree/master/class02).
 {: .notice}
 
 <a name="lab"></a>
