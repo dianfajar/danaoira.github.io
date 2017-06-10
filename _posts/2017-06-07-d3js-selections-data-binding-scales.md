@@ -23,7 +23,7 @@ comments: true
 
 ### The Weather
 
-Coming from Southern California, weather talk down there isn't very interesting since it's sunny and hot there most months out of the year. After moving to the The Bay Area, the weather is actually really interesting to talk about.
+Coming from Southern California, weather talk down there isn't very fun since it's sunny and hot most months out of the year. After moving to the The Bay Area, the weather is actually really interesting to talk about.
 
 On the topic of weather, class started with weather data visualizations. If you thought weather talk in San Francisco was cool, D3.js weather talk is even cooler - even down to the classical examples that are still live.
 
@@ -37,13 +37,15 @@ On the topic of weather, class started with weather data visualizations. If you 
 
 Although not all D3.js examples, they were very inspirational pieces of the earlier days of interactive data visualization.
 
-[![03](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)]
+[![03]](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 
 We switched gears to discuss [Design and Redesign](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9). The article drives the movement of more criticism for visual design. Many times, people easily adopt graphs as proven fact, when there can be bias lying underneath.
 
 I especially enjoyed that the article mentions [Dr. Edward Tufte](http://edwardtufte.com). I [took his masterclass](https://www.edwardtufte.com/tufte/courses) a few weeks ago when he was visiting San Francisco and managed to get all copies of his books, including his most famous and widely-referenced [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi).
 
-At a recent meetup at the University of San Francisco's Data Analytics Seminar Series, [Elijah Meeks](http://elijahmeeks.com/), the author of [D3.js in Action](https://www.manning.com/books/d3-js-in-action) also referenced Tufte at the beginning of his presentation. Tufte is definitely an author you won't want to leave out of a data visualization repertoire.
+At a recent meetup at the University of San Francisco's Data Analytics Seminar Series, I had the pleasure of running into [Elijah Meeks](http://elijahmeeks.com/), the author of [D3.js in Action](https://www.manning.com/books/d3-js-in-action). He, too, referenced Tufte at the beginning of his presentation. 
+
+Tufte is definitely an author you won't want to leave out of any data visualization repertoire.
 
 Our last discussion was on what I like to call an "interactive white paper" called [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/).
 
@@ -51,7 +53,7 @@ Our last discussion was on what I like to call an "interactive white paper" call
 
 Our instructors dubbed the single-page style as **"scrolly telling"** and the name is well-deserved after skimming through the page even for a few seconds.
 
-I was pleasantly surprised to see this visualization because I came across it at an Artificial Intelligence conference a few months ago. Ironically enough, this visualization was what made me realize that data visualization was exactly and passionately what I wanted to do.
+I was pleasantly surprised to see this visualization because I came across it at an Artificial Intelligence conference a few months ago. Ironically enough, this visualization was what made me realize that data visualization was exactly and passionately what I wanted to do. Even more ironic is that one of our instructors learned D3.js from the person who programmed that white paper!
 
 ### Selections and Data Binding
 
@@ -62,7 +64,7 @@ Okay, on to the learning part! After so much inspiration, we were in for a surpr
 
 We did a bar chart examples to practice selections and data binding.
 
-Since D3 is derived from JavaScript **DOM manipulation** is key. The first encounter in D3 is with a **select** statement. Start of by selecting which DOM element to work with:
+Since D3 is derived from JavaScript, **DOM manipulation** is key. The first encounter in D3 is with a **select** statement. Start off by selecting which DOM element to work with:
 
 #### Selection
 
@@ -94,7 +96,7 @@ The `select` will update the `circle` element to:
 **Info:** The following code is based off of [The Health and Wealth of Nations]().
 {: .notice_info}
 
-**Data binding** is useful if the svg elements aren't already created, or you want to make them dynamically:
+**Data binding** is useful if the svg elements aren't already created, or if you want to make them dynamically:
 
 ```
 svg.selectAll("circle")
@@ -130,7 +132,7 @@ Scales require a **domain** and **range**. A key idea that we learned for the re
 - domain = data space
 - range = display space
 
-That was the most helpful thing for me to remember!
+I had a to memorize this concept several times because I kept mixing the two up. Best advice ever!
 
 Setting up the code for scales usually looks like this:
 
@@ -168,7 +170,7 @@ var yExtent = d3.extent();
 
 Unfortunately during this class, I didn't make any coding examples myself and continued it with lab the next day.
 
-Our take home assignement was to recreate this scatterplot using data from **Nations and their income + life expectancy, 2009**. It was inspired by [Hans ROsling's 2006 TED Talk](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen).
+Our take home assignement was to recreate this scatterplot using data from **Nations and their income + life expectancy, 2009**. It was inspired by [Hans Rosling's 2006 TED Talk](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen).
 
 ![05]
 
