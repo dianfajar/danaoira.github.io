@@ -13,7 +13,7 @@ comments: true
 **Info:** This post is part of [Data Visualization with D3.js - Week 1](/data-visualization-with-d3js-week-1/)
 {: .notice_info}
 
-Week 1 ended with an assignment for creating a scatter lpot on **The Health and Wealth of Nations, 2009**.
+Week 1 ended with an assignment for creating a scatter plot on **The Health and Wealth of Nations, 2009**.
 
 ## Steps
 
