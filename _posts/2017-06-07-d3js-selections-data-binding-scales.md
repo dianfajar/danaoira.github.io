@@ -93,9 +93,6 @@ The `select` will update the `circle` element to:
 
 #### Data Binding
 
-**Info:** The following code is based off of [The Health and Wealth of Nations]().
-{: .notice_info}
-
 **Data binding** is useful if the svg elements aren't already created, or if you want to make them dynamically:
 
 ```
@@ -175,6 +172,9 @@ Our take home assignement was to recreate this scatterplot using data from **Nat
 ![05]
 
 For a bonus challenge, we were asked to make it into a bar chart.
+
+**Info:** Scatterplot Walkthrough with The Wealth of Nations (in progress).
+{: .notice_info}
 
 [01]: /images/01-wind-map.PNG
 [02]: /images/02-earth-wind-map.PNG
