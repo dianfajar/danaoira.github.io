@@ -26,7 +26,7 @@ I did this in 3 parts.
 ## "Prettify-ing" JSON Data
 
 pret·ti·fy
-:   make (someone or somethign) appear superficially pretty or attractive
+:   make (someone or something) appear superficially pretty or attractive
 
 It helps to look at code or data when it looks readable or "pretty".
 
