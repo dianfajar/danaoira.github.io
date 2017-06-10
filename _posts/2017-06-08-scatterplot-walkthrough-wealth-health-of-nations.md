@@ -60,8 +60,8 @@ Here's a simple walkthrough of how I use Pandas to quickly understand the data I
 6. View first few results
 
 ```
-import pandas as pandas 				# imports
-nations_file = "nations.json"			# variables
+import pandas as pandas 		# imports
+nations_file = "nations.json"		# variables
 nations = pd.read_json(nations_file)	# read data
 
 # get column variable names
