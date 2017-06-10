@@ -8,7 +8,7 @@ tags:
   - Python
   - Pandas
 comments: true
-image: /images/nations-v3.PNG
+image: nations-v3.PNG
 ---
 
 **Info:** This post is part of [Data Visualization with D3.js - Week 1](/data-visualization-with-d3js-week-1/)
