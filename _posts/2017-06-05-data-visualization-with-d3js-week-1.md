@@ -102,7 +102,7 @@ Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://
 <a name="lesson2"></a>
 ## Class 2: Data Binding and Entering
 
-**Note:** [View the full post](https://github.com/danaoira/metisD3/tree/master/class02).
+**Note:** [View the full post](/d3js-selections-data-binding-scales/).
 {: .notice}
 
 <a name="lab"></a>

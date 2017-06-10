@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "D3.js Data Binding and Entering"
+title: "D3.js Selections, Data Binding and Scales"
 categories:
   - Academics
 tags:
@@ -66,7 +66,7 @@ We did a bar chart examples to practice selections and data binding.
 
 Since D3 is derived from JavaScript, **DOM manipulation** is key. The first encounter in D3 is with a **select** statement. Start off by selecting which DOM element to work with:
 
-#### Selection
+#### Selections
 
 - `d3.select()` selects one element
 - `d3.selectAll()` selects all elements of the same type
