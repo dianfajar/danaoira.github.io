@@ -83,11 +83,11 @@ Nothing too in-depth in terms of data science stuff. This amount of information 
 
 ## D3.js Development
 
-I went through three different versions of the scatterplot.
+I went through three different versions of the scatterplot, but first, I had to decide what development environment I wanted to use for this project.
+
+I decided to move away from [BlockBuilder](http://blockbuilder.org) and run a local server on my computer. It makes debugging a lot easier.
 
 ### Setting Up a Local Server
-
-I also decided to move away from [BlockBuilder](http://blockbuilder.org) and run a local server on my computer. It makes debugging a lot easier.
 
 To do this on Windows:
 
@@ -152,9 +152,11 @@ d3.json("nations.json", function(error, json) {
 });
 ```
 
-From there, it's simply filling out all the default values. I order them by x and y values.
+From there, it's simply filling out all the default values.
 
-This is what the template looks like. Values for variables and methods must be filled it.
+I group them by x and y values under each section. I was thinking of doing all x's and then all y's, but this was easier for me to maintain sequentially.
+
+This is what the template looks like filled in with default methods. Values for variables and methods must be filled in.
 
 ```
 d3.json("nation.json", function(error, json) {
