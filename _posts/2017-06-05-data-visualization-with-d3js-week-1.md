@@ -108,7 +108,7 @@ Other interesting sites that were mentioned today: [#d3brokeandmadeart](https://
 <a name="lab"></a>
 ## Lab
 
-Incoming!
+**Note:** [View Scatter Plot Walkthrough with The Health & Wealth of Nations](/scatterplot-walkthrough-wealth-health-of-nations/)
 {: .notice}
 
 [00]: /images/00-curriculum-graph-visualizer.PNG "Curriculum Graph Visualizer"
