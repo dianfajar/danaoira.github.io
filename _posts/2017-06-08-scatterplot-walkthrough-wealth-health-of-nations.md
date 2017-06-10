@@ -5,6 +5,8 @@ categories:
   - Academics
 tags:
   - D3.js
+  - Python
+  - Pandas
 comments: true
 ---
 
