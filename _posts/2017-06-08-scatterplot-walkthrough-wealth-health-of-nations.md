@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scatterplot Walkthrough with The Wealth & Health of Nations"
+title: "Scatter Plot Walkthrough with The Wealth & Health of Nations"
 categories:
   - Academics
 tags:
@@ -13,7 +13,7 @@ comments: true
 **Info:** This post is part of [Data Visualization with D3.js - Week 1](/data-visualization-with-d3js-week-1/)
 {: .notice_info}
 
-Week 1 ended with an assignment for creating a scatterplot on **The Health and Wealth of Nations, 2009**.
+Week 1 ended with an assignment for creating a scatter lpot on **The Health and Wealth of Nations, 2009**.
 
 ## Steps
 
@@ -74,9 +74,7 @@ nations.describe()
 nations.head()
 ```
 
-It's nothing too in-depth in terms of data exploration.
-
-This is enough for me to better understand the data to use for D3.js.
+It's nothing too in-depth in terms of data exploration. This is information is enough to better understand the data to use for D3.js.
 
 It gets you the **variables** in the data (from the column values), what **min** and **max** values to expect for scales and **what the data looks like** in a more human-readable form.
 
@@ -157,7 +155,7 @@ d3.json("nations.json", function(error, json) {
 
 From there, it's simply filling out all the default values.
 
-I group them by x and y values under each section. I was thinking of doing all x's and then all y's, but this was easier for me to maintain sequentially.
+The values x and y are grouped together under each section. I was thinking of doing all x's and then all y's, but this was easier to maintain sequentially.
 
 This is what the template looks like filled in with default methods. Values for variables and methods must be filled in.
 
@@ -220,17 +218,15 @@ The best way to get better at coding is with practice and when you can refine a 
 
 After filling those out, it's just a matter of adding CSS or filling in SVG attributes to color the graph the way you want it to look.
 
-At the very end of each created element, I like to add `.attr("class", "class-name")` to reference a CSS class and do the styling within the CSS style.
+At the very end of each created element, I like to add `.attr("class", "class-name")` to reference a CSS class and do the styling within the CSS style. I'll have to write about CSS practices in another post, since that is an entire topic I can write about for days.
 
-I will write about CSS practices in another post, since that is an entire topic I can write about for days.
+Other than that, here is the final result using two different scales.
 
-Other than that, here is the final result using two different scales:
-
-### Using `.scaleLinear()`
+This example uses `.scaleLinear()`:
 
 [![05]](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c)
 
-### Using `.scaleLog()`
+This example uses `.scaleLog()`: Note the x-axis ticks in exponential form. That wouldn't be helpful for understanding the per capita income value, but the graph is significantly different from the linear scale.
 
 [![06]](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c)
 
