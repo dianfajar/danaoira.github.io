@@ -57,7 +57,7 @@ I was pleasantly surprised to see this visualization because I came across it at
 
 ### Selections and Data Binding
 
-**A note on style:** All code examples will use the traditional computer science style convention of double quotes (`""`) for strings, single quotes (`''`) for chars and no quotes around number values.
+**A note on style:** All code examples will follow the standard computer science style convention of double quotes (``) for strings, single quotes (``) for characters and no quotes for number values (integer, float, double).
 {: .notice_info}
 
 Okay, on to the learning part! After so much inspiration, we were in for a surprise with lecture as we dove into D3.
