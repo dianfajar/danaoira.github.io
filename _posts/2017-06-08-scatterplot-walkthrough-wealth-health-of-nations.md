@@ -78,7 +78,7 @@ Nothing too in-depth in terms of data science stuff. This amount of information 
 
 [![02]](https://github.com/danaoira/metisD3/blob/master/lab01/nations-data-exploration.ipynb)
 
-[View Notebook](https://github.com/danaoira/metisD3/blob/master/lab01/nations-data-exploration.ipynb) {: .btn}
+[View Notebook](https://github.com/danaoira/metisD3/blob/master/lab01/nations-data-exploration.ipynb){: .btn}
 {: .notice}
 
 ## D3.js Development
@@ -231,7 +231,7 @@ Other than that, here is the final result using two different scales:
 
 [![06]](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c)
 
-[View Code](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c) {: .btn}
+[View Code](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c){: .btn}
 
 We were challenged to make this graph into a bar chart, so that will be my next project!
 
