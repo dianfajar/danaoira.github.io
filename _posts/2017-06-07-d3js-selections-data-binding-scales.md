@@ -129,7 +129,7 @@ Scales require a **domain** and **range**. A key idea that we learned for the re
 - domain = data space
 - range = display space
 
-I had a to memorize this concept several times because I kept mixing the two up. Best advice ever!
+I had to memorize this concept several times because I kept mixing the two up. Best advice ever!
 
 Setting up the code for scales usually looks like this:
 
