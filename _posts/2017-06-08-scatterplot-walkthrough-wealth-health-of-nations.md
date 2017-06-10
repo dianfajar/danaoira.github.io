@@ -17,7 +17,7 @@ Week 1 ended with an assignment for creating a scatterplot on **The Health and W
 
 ## Steps
 
-I did this in 3 parts.
+This was done in 3 parts.
 
 1. "Prettify-ing" JSON Data
 2. Data Exploration with Python Pandas
@@ -28,7 +28,7 @@ I did this in 3 parts.
 pret·ti·fy
 :   make (someone or something) appear superficially pretty or attractive
 
-It helps to look at code or data when it looks readable or "pretty".
+This step isn't necessary, but it does help to look at code or data when it looks readable or "pretty".
 
 The original data set looked like this:
 
@@ -38,7 +38,7 @@ The original data set looked like this:
 
 It reminded of the JavaScript spaghetti code that programmers liked to make in the early 2000s.
 
-[JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) fixed that and I updated the JSON file with the formatted data.
+[JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) helped to prettify it, so I updated the JSON file with the formatted data.
 
 [![01]](https://jsonformatter.curiousconcept.com/)
 
@@ -46,7 +46,7 @@ It reminded of the JavaScript spaghetti code that programmers liked to make in t
 
 I wanted to take it a step further by practicing some simple data science using Python Pandas.
 
-You can either do it through the **console** or on **Jupyter Notebooks**.
+This can be done through the **console** or on **Jupyter Notebooks**.
 
 For quick information that I don't plan on saving, I use the console. If I'm going to save and share the data, I use Jupyter Notebook.
 
@@ -60,7 +60,7 @@ Here's a simple walkthrough of how I use Pandas to quickly understand the data I
 6. View first few results
 
 ```
-import pandas as pandas 		# imports
+import pandas as pd 			# imports
 nations_file = "nations.json"		# variables
 nations = pd.read_json(nations_file)	# read data
 
