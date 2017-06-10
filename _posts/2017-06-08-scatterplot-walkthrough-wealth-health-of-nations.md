@@ -236,6 +236,10 @@ Other than that, here is the final result using two different scales:
 
 [View Code](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c){: .btn .btn_success}
 
+## Next Steps
+
+I want to improve this chart by making an on-hover effect over each circle and display its data.
+
 We were challenged to make this graph into a bar chart, so that will be my next project!
 
 [01]: /images/json-formatter.PNG
