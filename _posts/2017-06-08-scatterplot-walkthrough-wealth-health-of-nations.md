@@ -74,7 +74,11 @@ nations.describe()
 nations.head()
 ```
 
-Nothing too in-depth in terms of data science stuff. This amount of information is enough for me to use for D3.js. It helps me understand what variables I'm working with, what min and max values to expect for my scales and what the data looks like in a more readable form.
+It's nothing too in-depth in terms of data exploration.
+
+This is enough for me to better understand the data to use for D3.js.
+
+It gets you the **variables** in the data (from the column values), what **min** and **max** values to expect for scales and **what the data looks like** in a more human-readable form.
 
 [![02]](https://github.com/danaoira/metisD3/blob/master/lab01/nations-data-exploration.ipynb)
 
