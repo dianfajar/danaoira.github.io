@@ -146,7 +146,7 @@ var yScale = d3.scaleLinear()
 	.range();
 ```
 
-The parameters `domain()` and `range()` take is an array of min and max values.
+The parameters `domain()` and `range()` take in an array of min and max values.
 
 Ways to calculate min and max are with:
 
