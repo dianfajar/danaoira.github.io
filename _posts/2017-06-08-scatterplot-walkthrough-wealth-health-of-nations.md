@@ -222,11 +222,11 @@ I will write about CSS practices in another post, since that is an entire topic 
 
 Other than that, here is the final result using two different scales:
 
-### `Scatterplot using .scaleLinear()`
+### Using `.scaleLinear()`
 
 [![05]](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c)
 
-### `Scatterplot using .scaleLog()`
+### Using `.scaleLog()`
 
 [![06]](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c)
 
