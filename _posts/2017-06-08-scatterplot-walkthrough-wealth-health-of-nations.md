@@ -29,7 +29,7 @@ This was done in 3 parts.
 pret·ti·fy
 :   make (someone or something) appear superficially pretty or attractive
 
-This step isn't necessary, but it does help to look at code or data when it looks readable or "pretty".
+Although this step isn't necessary, it does help to look at code or data when it looks readable or "pretty".
 
 The original data set looked like this:
 
@@ -39,26 +39,15 @@ The original data set looked like this:
 
 It reminded of the JavaScript spaghetti code that programmers liked to make in the early 2000s.
 
-[JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) helped to prettify it, so I updated the JSON file with the formatted data.
-
 [![01]](https://jsonformatter.curiousconcept.com/)
+
+[JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) was used to prettify the data.
 
 ## Data Exploration with Python Pandas
 
 I wanted to take it a step further by practicing some simple data science using Python Pandas.
 
 This can be done through the **console** or on **Jupyter Notebooks**.
-
-For quick information that I don't plan on saving, I use the console. If I'm going to save and share the data, I use Jupyter Notebook.
-
-Here's a simple walkthrough of how I use Pandas to quickly understand the data I'm dealing with.
-
-1. Imports
-2. Set variables
-3. Read data
-4. Get column variable neames
-5. Get summary statistics per variable
-6. View first few results
 
 ```
 import pandas as pd 			# imports
@@ -75,9 +64,9 @@ nations.describe()
 nations.head()
 ```
 
-It's nothing too in-depth in terms of data exploration. This is information is enough to better understand the data to use for D3.js.
+This information is enough to better understand the data to use for D3.js.
 
-It gets you the **variables** in the data (from the column values), what **min** and **max** values to expect for scales and **what the data looks like** in a more human-readable form.
+It returns the **variables** in the data (from the column values), what **min** and **max** values to expect for scales and **what the data looks like** in a more human-readable form.
 
 [![02]](https://github.com/danaoira/metisD3/blob/master/lab01/nations-data-exploration.ipynb)
 
@@ -85,13 +74,13 @@ It gets you the **variables** in the data (from the column values), what **min**
 
 ## D3.js Development
 
-I went through three different versions of the scatterplot, but first, I had to decide what development environment I wanted to use for this project.
+There are three different versions of the scatter plot. 
 
-I decided to move away from [BlockBuilder](http://blockbuilder.org) and run a local server on my computer. It makes debugging a lot easier.
+I decided to move away from [BlockBuilder](http://blockbuilder.org) and run a local server on my computer to make debugging a lot easier.
 
 ### Setting Up a Local Server
 
-To do this on Windows:
+To do this on **Windows**:
 
 1. Open a **cmd** prompt.
 2. `cd` to the file directory you want to work in.
@@ -102,7 +91,7 @@ Voila! Local server all set. Now onto D3 coding.
 
 ### Version 1
 
-Version 1 was me just trying to put together all the concepts from [Class 2](/2017-06-07-d3js-selections-data-binding-scales/).
+Version 1 attempted to put together all the concepts from [Class 2](/2017-06-07-d3js-selections-data-binding-scales/).
 
 I wanted to focus on getting the data points onto the screen.
 
@@ -210,28 +199,26 @@ d3.json("nation.json", function(error, json) {
 		.call(yAxis);
 
 	// create titles	
-})
+});
 ```
 
 Just fill in everything from top to bottom. Quick and easy!
 
-The best way to get better at coding is with practice and when you can refine a routine for coding things out, you'll get much better and faster at it. It's kind of like a check list.
-
 After filling those out, it's just a matter of adding CSS or filling in SVG attributes to color the graph the way you want it to look.
 
-At the very end of each created element, I like to add `.attr("class", "class-name")` to reference a CSS class and do the styling within the CSS style. I'll have to write about CSS practices in another post, since that is an entire topic I can write about for days.
-
-Other than that, here is the final result using two different scales.
+Here is the final result using two different scales.
 
 This example uses `.scaleLinear()`:
 
 [![05]](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c)
 
-This example uses `.scaleLog()`: Note the x-axis ticks in exponential form. That wouldn't be helpful for understanding the per capita income value, but the graph is significantly different from the linear scale.
+This example uses `.scaleLog()`:
 
 [![06]](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c)
 
 [View Code](http://blockbuilder.org/danaoira/cb7faa4758a0e9525c7b07c3154df22c){: .btn .btn_success}
+
+Note the x-axis ticks in exponential form. That wouldn't be helpful for understanding the per capita income value, but the graph is significantly different from the linear scale.
 
 ## Next Steps
 
