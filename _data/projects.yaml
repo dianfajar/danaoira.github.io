@@ -13,15 +13,15 @@
   image: images/metis-logo.png
   completed: true
 
-- title: Garden
-  url: 
-  image: 
-  completed: false
+# - title: Garden
+#   url: 
+#   image: 
+#   completed: false
 
-- title: Eclipses
-  url: https://github.com/danaoira/eclipses
-  image: 
-  completed: false
+# - title: Eclipses
+#   url: https://github.com/danaoira/eclipses
+#   image: 
+#   completed: false
   
 - title: Curriculum Graph Visualizer
   url: https://github.com/danaoira/CurriculumGraphVisualizer
