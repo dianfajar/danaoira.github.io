@@ -5,12 +5,16 @@ description: "About"
 permalink: /about.html
 ---
 
-Hi, my name is Dana.
+**I like to say that I grew up with the Internet.** I started making websites in 1999 at 10 years old. I lived through the days of dial-up, web rings, Dynamic HTML, GreyMatter blogging, PHP's release and the web before social networks existed.
 
-I am a web developer turned computer science graduate currently tinkering with data visualization.
+I studied Public Health in college, but my passion for development was still there. I received the opportunity of a lifetime when I was accepted to a MS Computer Science program and the rest was history.
 
-I have extensive experience with HTML, CSS, JavaScript and Python.
+Today, I am an advocate for [#WomenInComputing](https://twitter.com/search?q=%23WomenInComputing) and [#ILookLikeAnEngineer](https://twitter.com/search?q=%23ILookLikeAnEngineer). I organize tech events to the community with the [ACM SF Bay Area Chapter](http://sfbayacm.org/). I also regularly attend conferences and meetups on Data Visualization, Artificial Intelligence and Data Science.
 
-I like to translate things from the physical world and make them pretty all the down to the very last pixel on a screen, even with responsive design.
+I am a member of the following professional societies:
 
-I have been making websites since I was 10 and am passionate about the internet, my childhood playground.
+- [Association of Computing Machinery (ACM)](http://acm.org)
+- [ACM Women (ACM-W)](http://women.acm.org/)
+- [Women in Big Data (WiBD)](https://www.womeninbigdata.org/)
+
+Let me know if you're interested in a referral!
